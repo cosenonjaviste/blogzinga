@@ -1,0 +1,26 @@
+[
+  {
+    "version": 1,
+    "title": "CoseNonJaviste",
+    "topic": "Tutorial e approfondimenti sul mondo Java e Android",
+    "authors": [
+      "Andrea Como",
+      "Fabio Collini",
+      "Manuele Piastra",
+      "Giampaolo Trapasso"
+    ],
+    "languages": ["ita"],
+    "preview": "http://img.ur/cnj.jpg",
+    "tags": [
+      "java",
+      "android",
+      "agile",
+      "scala",
+      "spring"
+    ],
+    "facebook": "www.facebook.com/cnj",
+    "github": "github.com/CNJ",
+    "twitter": "@cosenonjaviste",
+    "url": "http://cosenonjaviste.it"
+  }
+]
