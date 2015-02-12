@@ -5,6 +5,14 @@
 * in *root* folder
 ```
 npm install && bower install
+```
+* in *backend* folder
+```
+npm install
+```
+### How to lauch ###
+* in *root* folder
+```
 gulp
 ```
 
