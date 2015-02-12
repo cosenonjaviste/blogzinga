@@ -1,0 +1,37 @@
+{
+  "name": "bloggers",
+  "version": "0.0.1",
+  "authors": [
+    "CNJ"
+  ],
+  "license": "xxx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "angularjs": "~1.2.20",
+    "angular-ui-router": "~0.2.10",
+    "angular-animate": "~1.2.21",
+    "jquery": "~2.1.1",
+    "angular-bootstrap": "angular-ui/bootstrap-bower#~0.11.0",
+    "bootstrap": "~3.2.0",
+    "angular-translate": "~2.2.0",
+    "angular-svg-round-progressbar": "~0.1.0",
+    "angular-i18n": "~1.2.24",
+    "angular-dynamic-locale": "~0.1.17",
+    "underscore": "~1.7.0",
+    "ui-ladda": "*",
+    "ladda-bootstrap": "~0.1.0",
+    "ng-file-upload-shim": "*",
+    "ng-file-upload": "*",
+    "angular-growl-v2": "~0.7.0",
+    "angular-promise-tracker": "*",
+    "moment": "~2.8.4",
+    "angular-utf8-base64": "~0.0.5"
+  }
+}

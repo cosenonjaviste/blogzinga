@@ -1,0 +1,18 @@
+div.col-md-12
+  table.table.stripe-table
+    tr
+      th.small-col
+        input(type="text", ng-model="filterBlog.title")
+      th
+        input(type="text", ng-model="filterBlog.topic", style="width: 100%")
+      th.small-col
+        input(type="text", ng-model="filterBlog.tags")
+    tr
+      th.small-col Title
+      th Topic
+      th.small-col Tags
+    tr(ng-repeat="blog in blogs | filter: filterBlog")
+      td.small-col
+        a(ng-href="{{blog.url}}", target="_balnk") {{blog.title}}
+      td {{blog.topic}}
+      td.small-col {{blog.tags | join}}
