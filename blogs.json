@@ -22,5 +22,25 @@
     "github": "github.com/CNJ",
     "twitter": "@cosenonjaviste",
     "url": "http://cosenonjaviste.it"
+  },
+  {
+    "version": 1,
+    "title": "#{francescostrazzullo}",
+    "topic": "JavaServerFaces spiegati con competenza e precisione ",
+    "authors": [
+      "Francesco Strazzullo"
+    ],
+    "languages": ["ita"],
+    "preview": "http://img.ur/cnj.jpg",
+    "tags": [
+      "JSF",
+      "java",
+      "javascript",
+      "primefaces"
+    ],
+    "github": "https://github.com/francesco-strazzullo/primefaces-reflection-crud",
+    "twitter": "https://twitter.com/TheStrazz86"
+    "facebook": "https://www.facebook.com/francesco.strazzullo",
+    "url": "http://www.francescostrazzullo.info/"
   }
 ]
