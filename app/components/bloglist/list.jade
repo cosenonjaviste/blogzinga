@@ -20,7 +20,7 @@
                             span(ng-repeat="tag in blog.tags")
                                 a.label(style="margin-right: 1em", random-label, href="", ng-click="filterByTag(tag)") {{tag}}
                     .col-md-1
-                        a.social.fa.fa-twitter(ng-href="{{glob.twitter}}", target="_blank", ng-if="blog.twitter")
+                        a.social.fa.fa-twitter(ng-href="{{blog.twitter}}", target="_blank", ng-if="blog.twitter")
                         a.social.fa.fa-facebook-official(ng-href="{{blog.facebook}}", target="_blank", ng-if="blog.facebook")
                         a.social.fa.fa-github(ng-href="{{blog.github}}", target="_blank", ng-if="blog.github")
                     .col-md-2.pull-right
