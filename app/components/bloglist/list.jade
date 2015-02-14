@@ -12,17 +12,18 @@
                 h3.panel-title {{blog.title}}
             .panel-body
                 .row
-                    .col-md-9
+                    .col-md-8
                         div {{blog.topic}}
                         div By: 
                             em {{blog.authors | join}}
                         div(style="margin-top: 1em")
                             span(ng-repeat="tag in blog.tags")
                                 a.label(style="margin-right: 1em", random-label, href="", ng-click="filterByTag(tag)") {{tag}}
+                    .col-md-3
+                        img.hand.pull-right(ng-src="{{blog.preview}}", ng-click="openUrl(blog.url)" style="width: 200px")
                     .col-md-1
                         a.social.fa.fa-twitter(ng-href="{{glob.twitter}}", target="_blank", ng-if="blog.twitter")
                         a.social.fa.fa-facebook-official(ng-href="{{blog.facebook}}", target="_blank", ng-if="blog.facebook")
                         a.social.fa.fa-github(ng-href="{{blog.github}}", target="_blank", ng-if="blog.github")
-                    .col-md-2.pull-right
-                        img.hand(ng-src="{{blog.preview}}", ng-click="openUrl(blog.url)")
+                    
                       
