@@ -22,7 +22,7 @@ class BlogListConfiguration extends Config
 class BlogList extends Controller
   constructor: ($scope, BlogListService, base64) ->
     BlogListService.getBlogs().then (resp) ->
-      $scope.blogs = resp
+      $scope.blogs = _.sortBy resp, 'title'
       #for blog in $scope.blogs
       #  for author, i in blog.authors
       #    blog['author_' + i] = author
