@@ -42,5 +42,21 @@
     "twitter": "https://twitter.com/TheStrazz86",
     "facebook": "https://www.facebook.com/francesco.strazzullo",
     "url": "http://www.francescostrazzullo.info/"
+  },
+  {
+    "version": 1,
+    "title": "Alessandro Nizzo",
+    "topic": "Liferay e Java",
+    "authors": [
+      "Alessandro Nizzo"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/nizzo.jpg",
+    "tags": [
+      "LifeRay",
+      "java"
+    ],
+    "twitter": "https://twitter.com/alessandronizzo",
+    "url": "http://www.alessandronizzo.it/"
   }
 ]
