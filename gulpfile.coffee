@@ -40,7 +40,7 @@ paths.libJs = [
       ]
 
 paths.libCss = [
-      './bower_components/bootstrap/dist/css/bootstrap.css'
+      './app/css/bootstrap.css'
       #'./bower_components/ladda-bootstrap/dist/ladda-themeless.css'
       #'./bower_components/angular-growl-v2/build/angular-growl.css'
     ]
@@ -90,11 +90,9 @@ gulp.task 'templates', ->
 gulp.task 'appCss', ->
   gulp.src paths.appCss
     .pipe gulpif /[.]less$/, less
-      paths: [
-        './bower_components/bootstrap/less'
-      ]
+      paths: []
     .on 'error', gutil.log
-    .pipe concat 'survey.css'
+    .pipe concat 'style.css'
     .pipe gulp.dest './dist/css'
 
 gulp.task 'libCss', ->

@@ -24,6 +24,10 @@ class BlogList extends Controller
     BlogListService.getBlogs().then (resp) ->
       $scope.blogs = angular.fromJson base64.decode resp
       return
+    
+    $scope.openUrl = (url) ->
+      window.open url
+
 
 
 class BlogListService extends Factory
@@ -39,4 +43,18 @@ class Join extends Filter
   constructor: ->
     return (value) ->
       value.join? ', '
+      
+class RandomHeader extends Directive
+  constructor: ->
+    return {
+      restrict: 'A'
+      link: ($scope, $element, $attrs) ->
+        classes = ['panel-primary', 'panel-success', 'panel-warning', 'panel-danger', 'panel-info']
+        
+        random = () ->
+          Math.floor Math.random() * (classes.length - 1);
+          
+        $element.parent().addClass classes[random()]
+        return
+    }
 

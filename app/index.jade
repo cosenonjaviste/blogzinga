@@ -1,18 +1,22 @@
 doctype html
 html(lang='en' ng-app='blogzinga')
-  head
-    meta(charset='utf-8')
-    meta(http-equiv='X-UA-Compatible', content='IE=edge')
-    meta(name='viewport', content='width=device-width, initial-scale=1')
-    meta(name='description', content='')
-    meta(name='author', content='DUCATI DCS Survey')
-    title CNJ Favourite Blogs
-    link(href='css/survey.css?v=#{version}', rel='stylesheet')
-    link(href='css/lib.css?v=#{version}', rel='stylesheet')
+    head
+        meta(charset='utf-8')
+        meta(http-equiv='X-UA-Compatible', content='IE=edge')
+        meta(name='viewport', content='width=device-width, initial-scale=1')
+        meta(name='description', content='')
+        meta(name='author', content='DUCATI DCS Survey')
+        title CNJ Favourite Blogs
+        link(href='css/style.css?v=#{version}', rel='stylesheet')
+        link(href='css/lib.css?v=#{version}', rel='stylesheet')
 
-  body.blogzinga
-    .template-container(ui-view="template")
+    body
+        .navbar.navbar-default.navbar-fixed-top
+            .container
+                .navbar-header
+                    a.navbar-brand BlogZinga!
+        .container(ui-view="template")
 
-    script(src='js/lib.js?v=#{version}')
-    script(src='js/templates.js?v=#{version}')
-    script(src='js/app.js?v=#{version}')
+        script(src='js/lib.js?v=#{version}')
+        script(src='js/templates.js?v=#{version}')
+        script(src='js/app.js?v=#{version}')
