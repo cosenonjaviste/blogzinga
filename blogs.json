@@ -58,5 +58,23 @@
     ],
     "twitter": "https://twitter.com/alessandronizzo",
     "url": "http://www.alessandronizzo.it/"
+  },
+   {
+    "version": 1,
+    "title": "Antonio Musarra's Blog",
+    "topic": "Tutto quello che c'è da sapere su LifeRay e SugarCRM, qui c'è",
+    "authors": [
+      "Antonio Musarra"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/musarra.jpg",
+    "tags": [
+      "LifeRay",
+      "SugarCRM"
+    ],
+    "github": "https://github.com/amusarra/",
+    "twitter": "https://twitter.com/antonio_musarra",
+    "facebook": "https://www.facebook.com/antoniomusarrablog",
+    "url": "http://www.dontesta.it/"
   }
 ]
