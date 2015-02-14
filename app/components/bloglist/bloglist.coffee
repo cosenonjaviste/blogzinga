@@ -22,20 +22,29 @@ class BlogListConfiguration extends Config
 class BlogList extends Controller
   constructor: ($scope, BlogListService, base64) ->
     BlogListService.getBlogs().then (resp) ->
-      $scope.blogs = angular.fromJson base64.decode resp
+      $scope.blogs = resp
+      #for blog in $scope.blogs
+      #  for author, i in blog.authors
+      #    blog['author_' + i] = author
+      #  for tag, i in blog.tags
+      #    blog['tag_' + i] = tag
       return
     
     $scope.openUrl = (url) ->
       window.open url
+      
+    $scope.filterByTag = (tag) ->
+      $scope.filterBlog = tag
 
 
 
 class BlogListService extends Factory
-  constructor: ($http) ->
+  constructor: ($http, base64) ->
     return {
       getBlogs : () ->
         $http.get('https://api.github.com/repos/cosenonjaviste/blogzinga/contents/blogs.json?ref=master').then (resp) ->
-          resp.data.content
+          base64Content = resp.data.content
+          angular.fromJson base64.decode base64Content
 
     }
 
@@ -56,5 +65,18 @@ class RandomHeader extends Directive
           
         $element.parent().addClass classes[random()]
         return
+    }
+    
+class RandomLabel extends Directive
+  constructor: ->
+    return {
+      restict: 'A',
+      link: ($scope, $element, $attrs) ->
+        classes = ['label-primary', 'label-success', 'label-warning', 'label-danger', 'label-info']
+
+        random = () ->
+          Math.floor Math.random() * (classes.length - 1);
+          
+        $element.addClass classes[random()]
     }
 

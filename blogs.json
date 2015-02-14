@@ -18,9 +18,9 @@
       "scala",
       "spring"
     ],
-    "facebook": "www.facebook.com/cnj",
-    "github": "github.com/CNJ",
-    "twitter": "@cosenonjaviste",
+    "facebook": "https://www.facebook.com/cosenonjaviste",
+    "github": "https://github.com/cosenonjaviste",
+    "twitter": "https://twitter.com/cosenonjaviste",
     "url": "http://cosenonjaviste.it"
   },
   {
@@ -38,7 +38,7 @@
       "javascript",
       "primefaces"
     ],
-    "github": "https://github.com/francesco-strazzullo/primefaces-reflection-crud",
+    "github": "https://github.com/francesco-strazzullo",
     "twitter": "https://twitter.com/TheStrazz86",
     "facebook": "https://www.facebook.com/francesco.strazzullo",
     "url": "http://www.francescostrazzullo.info/"

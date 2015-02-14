@@ -17,7 +17,7 @@ commons =
     appJs: ['./app/**/*.coffee','./app/**/*.js']
     appCss: ['./app/**/*.less', './app/**/*.css']
     img:['./app/**/*.png','./app/**/*.gif','./app/**/*.jpg']
-    fonts:['./bower_components/bootstrap/fonts/*']
+    fonts:['./bower_components/bootstrap/fonts/*', './bower_components/font-awesome/fonts/*']
     templates: [
       '!./app/index.jade'
       '!./app/index.html'

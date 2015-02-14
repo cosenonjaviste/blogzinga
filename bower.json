@@ -32,6 +32,7 @@
     "angular-growl-v2": "~0.7.0",
     "angular-promise-tracker": "*",
     "moment": "~2.8.4",
-    "angular-utf8-base64": "~0.0.5"
+    "angular-utf8-base64": "~0.0.5",
+    "font-awesome": "~4.3.0"
   }
 }
