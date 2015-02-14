@@ -41,6 +41,7 @@ paths.libJs = [
 
 paths.libCss = [
       './app/css/bootstrap.css'
+      './bower_components/font-awesome/css/font-awesome.css'
       #'./bower_components/ladda-bootstrap/dist/ladda-themeless.css'
       #'./bower_components/angular-growl-v2/build/angular-growl.css'
     ]
@@ -149,7 +150,8 @@ gulp.task 'watch', ->
 gulp.task 'libMap', ->
   # copy sourcemaps for each libs
   gulp.src [
-    './bower_components/bootstrap/dist/css/bootstrap.css.map'
+    './bower_components/bootstrap/dist/css/bootstrap.css.map',
+    './bower_components/font-awesome/css/font-awesome.css.map'
   ]
   .pipe gulp.dest './dist/css'
 
