@@ -77,6 +77,42 @@
     "facebook": "https://www.facebook.com/antoniomusarrablog",
     "url": "http://www.dontesta.it/"
   },
+   {
+    "version": 1,
+    "title": "Esperienze di programmazione in Java",
+    "topic": "Appunti personali su Maven, Spring, Hibernate, Primefaces utili a chi voglia usare queste tecnologie",
+    "authors": [
+      "Mauro Cognolato"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/cognolato.jpg",
+    "tags": [
+      "maven",
+      "java",
+      "spring",
+      "hibernate"
+    ],
+    "github": "https://github.com/cognolato",
+    "url": "http://javaliere.blogspot.it/"
+  },
+   {
+    "version": 1,
+    "title": "Fabio Biondi",
+    "topic": "AngularJS, D3.js e tutto il frontend del mondo in questo blog",
+    "authors": [
+      "Fabio Biondi"
+    ],
+    "languages": ["ita","eng"],
+    "preview": "img/thumbs/biondi.jpg",
+    "tags": [
+      "AngularJS",
+      "D3.js",
+      "arduino",
+      "html5"
+    ],
+    "twitter": "https://twitter.com/biondifabio",
+    "url": "http://www.fabiobiondi.com/blog/"
+  },
   {
     "version": 1,
     "title": "MindTheGab",
