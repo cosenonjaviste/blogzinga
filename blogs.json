@@ -76,5 +76,23 @@
     "twitter": "https://twitter.com/antonio_musarra",
     "facebook": "https://www.facebook.com/antoniomusarrablog",
     "url": "http://www.dontesta.it/"
+  },
+   {
+    "version": 1,
+    "title": "Esperienze di programmazione in Java",
+    "topic": "Appunti personali su Maven, Spring, Hibernate, Primefaces utili a chi voglia usare queste tecnologie",
+    "authors": [
+      "Mauro Cognolato"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/cognolato.jpg",
+    "tags": [
+      "maven",
+      "java",
+      "spring",
+      "hibernate"
+    ],
+    "github": "https://github.com/cognolato",
+    "url": "http://javaliere.blogspot.it/"
   }
 ]
