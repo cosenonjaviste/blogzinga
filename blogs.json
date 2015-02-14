@@ -10,7 +10,7 @@
       "Giampaolo Trapasso"
     ],
     "languages": ["ita"],
-    "preview": "/img/thumbs/cnj.jpg",
+    "preview": "img/thumbs/cnj.jpg",
     "tags": [
       "java",
       "android",
@@ -31,7 +31,7 @@
       "Francesco Strazzullo"
     ],
     "languages": ["ita"],
-    "preview": "/img/thumbs/straz.jpg",
+    "preview": "img/thumbs/straz.jpg",
     "tags": [
       "JSF",
       "java",
