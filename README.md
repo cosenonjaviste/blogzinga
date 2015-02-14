@@ -1,5 +1,9 @@
 ## BlogZinga! ##
 
+Find your favorite blogs here!
+
+[http://cosenonjaviste.github.io/blogzinga/browse](http://cosenonjaviste.github.io/blogzinga/browse)
+
 ### How to build ###
 * install [node.js](http://nodejs.org/)
 * in *root* folder
