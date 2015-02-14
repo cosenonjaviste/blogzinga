@@ -76,5 +76,26 @@
     "twitter": "https://twitter.com/antonio_musarra",
     "facebook": "https://www.facebook.com/antoniomusarrablog",
     "url": "http://www.dontesta.it/"
+  },
+  {
+    "version": 1,
+    "title": "MindTheGab",
+    "topic": "All about Alfresco development news",
+    "authors": [
+      "Gabriele Columbro"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/mindthegab.png",
+    "tags": [
+      "Alfresco",
+      "ECM",
+      "CMIS",
+      "Chemistry",
+      "agile"
+    ],
+    "github": "https://github.com/mindthegab",
+    "twitter": "https://twitter.com/mindthegabz",
+    "facebook": "https://www.facebook.com/mindthegabz",
+    "url": "http://mindthegab.com/"
   }
 ]
