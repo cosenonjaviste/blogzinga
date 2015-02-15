@@ -18,12 +18,12 @@ class BlogzingaConfiguration extends Config
     .html5Mode off
 
     $urlRouterProvider
-    .otherwise '/blogzinga/list'
+    .otherwise '/blogs/list'
 
     $stateProvider
     .state 'bloggers',
       abstract: true
-      url: '/blogzinga'
+      url: '/blogs'
       views:
         'template':
           templateUrl: 'components/home.html'
