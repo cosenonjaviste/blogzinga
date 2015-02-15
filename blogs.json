@@ -133,5 +133,25 @@
     "twitter": "https://twitter.com/mindthegabz",
     "facebook": "https://www.facebook.com/mindthegabz",
     "url": "http://mindthegab.com/"
-  }
+  },
+  {
+    "version": 1,
+    "title": "Marco Bruni",
+    "topic": "Java e #C, Wordpress e Linux, questo blog è per tutti i gusti, una chicca interessante, un videocorso in 10 lezioni sulle basi di Java",
+    "authors": [
+      "Marco Bruni"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/bruni.jpg",
+    "tags": [
+      "Java",
+      "C#",
+      "linux",
+      "wordpress",
+      "PHP"
+    ],
+    "github": "https://github.com/marcobruni",
+    "facebook": "http://fb.me/marcobruni.page",
+    "url": "http://www.marcobruni.info/"
+  },
 ]
