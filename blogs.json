@@ -137,7 +137,7 @@
   {
     "version": 1,
     "title": "Marco Bruni",
-    "topic": "Java e #C, Wordpress e Linux, questo blog è per tutti i gusti, una chicca interessante, un videocorso in 10 lezioni sulle basi di Java",
+    "topic": "Java e C#, Wordpress e Linux, questo blog è per tutti i gusti, una chicca interessante, un videocorso in 10 lezioni sulle basi di Java",
     "authors": [
       "Marco Bruni"
     ],
@@ -189,5 +189,29 @@
     "twitter": "https://twitter.com/maxbiag80",
     "facebook": "https://www.facebook.com/massimo.biagioli",
     "url": "http://www.massimobiagioli.it/"
+  },
+  {
+    "version": 1,
+    "title": "Francesco Corti - ECM and BI Specialist",
+    "topic": "Analytics for Alfresco, Pentaho Data integrator",
+    "authors": [
+      "Francesco Corti"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/fcorti.png",
+    "tags": [
+      "Alfresco",
+      "ECM",
+      "CMIS",
+      "java",
+      "Business Intelligence",
+      "Pentaho",
+      "Sparkle",
+      "Kettle"
+    ],
+    "github": "https://github.com/fcorti/",
+    "twitter": "https://twitter.com/FrkCorti",
+    "facebook": "https://www.facebook.com/francesco.corti",
+    "url": "http://fcorti.com/"
   }
 ]
