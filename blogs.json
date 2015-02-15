@@ -169,5 +169,25 @@
     "twitter": "https://twitter.com/gignico",
     "facebook": "http://www.facebook.com/gignico",
     "url": "http://www.gigabytes.it/blog/"
+  },
+  {
+    "version": 1,
+    "title": "Massimo Biagioli - my Tech Blog",
+    "topic": "Un blog tecnico a 360 gradi...da Arduino a JavaScript",
+    "authors": [
+      "Massimo Biagioli"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/biagioli.jpg",
+    "tags": [
+      "arduino",
+      "nodejs",
+      "java",
+      "php"
+    ],
+    "github": "https://github.com/massimobiagioli/",
+    "twitter": "https://twitter.com/maxbiag80",
+    "facebook": "https://www.facebook.com/massimo.biagioli",
+    "url": "www.massimobiagioli.it/"
   }
 ]
