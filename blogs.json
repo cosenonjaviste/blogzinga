@@ -154,4 +154,20 @@
     "facebook": "http://fb.me/marcobruni.page",
     "url": "http://www.marcobruni.info/"
   },
+   {
+    "version": 1,
+    "title": "GigabytesBlog 2.0",
+    "topic": "Notizie aggiornate e commenti sul C++",
+    "authors": [
+      "Nicola Gigante"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/gigabytes.png",
+    "tags": [
+      "C++"
+    ],
+    "twitter": "https://twitter.com/gignico",
+    "facebook": "http://www.facebook.com/gignico",
+    "url": "http://www.gigabytes.it/blog/"
+  }
 ]
