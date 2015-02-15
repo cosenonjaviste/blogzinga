@@ -36,7 +36,8 @@
     "phantomjs": "^1.9.7-15",
     "protractor": "^1.1.1",
     "protractor-html-screenshot-reporter": "0.0.16",
-    "proxy-middleware": "^0.5.1"
+    "proxy-middleware": "^0.5.1",
+    "run-sequence": "^1.0.2"
   },
   "coffeelintConfig": {
     "max_line_length": {
