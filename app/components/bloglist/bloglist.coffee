@@ -11,7 +11,7 @@ class BlogListConfiguration extends Config
   constructor: ($stateProvider) ->
 
     $stateProvider
-      .state 'bloggers.list',
+      .state 'blogs.list',
         url: '/list'
         views:
           '':

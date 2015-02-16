@@ -5,8 +5,8 @@ html(lang='en' ng-app='blogzinga')
         meta(http-equiv='X-UA-Compatible', content='IE=edge')
         meta(name='viewport', content='width=device-width, initial-scale=1')
         meta(name='description', content='')
-        meta(name='author', content='DUCATI DCS Survey')
-        title CNJ Favourite Blogs
+        meta(name='author', content='BlogZinga! La lista dei blog italiani di programmazione')
+        title BlogZinga! La lista dei blog italiani di programmazione
         link(href='css/style.css?v=#{version}', rel='stylesheet')
         link(href='css/lib.css?v=#{version}', rel='stylesheet')
 
@@ -14,7 +14,12 @@ html(lang='en' ng-app='blogzinga')
         .navbar.navbar-default.navbar-fixed-top
             .container
                 .navbar-header
-                    a.navbar-brand BlogZinga!
+                    a.navbar-brand(ui-sref="blogs.list") BlogZinga!
+                        div(style="font-size: 14px; font-style: italic; margin-bottom: 5px") La lista dei blog italiani di programmazione
+                .navbar-collapse.collapse
+                    ul.nav.navbar-nav.navbar-right
+                        li
+                            a(ui-sref="blogs.about") Cos'è BlogZinga
         .container(ui-view="template")
 
         script(src='js/lib.js?v=#{version}')

@@ -5,6 +5,7 @@ class BlogzingaApp extends App then constructor: -> return [
   'ui.router'
   'templates'
   'bloglist'
+  'about'
 ]
 
 class BlogzingaConfiguration extends Config
@@ -21,7 +22,7 @@ class BlogzingaConfiguration extends Config
     .otherwise '/blogs/list'
 
     $stateProvider
-    .state 'bloggers',
+    .state 'blogs',
       abstract: true
       url: '/blogs'
       views:
