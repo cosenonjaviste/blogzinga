@@ -5,8 +5,11 @@
                 form.navbar-form.navbar-left.width100
                     .form-group.width100
                         input.form-control.width100(type="text", placeholder="Search", ng-model="filterBlog")
-
-    div.col-md-12
+                        
+    div.col-md-12(ng-show="!blogs", style="margin: 4em; text-align: center; font-size: 1.5em;")
+        i.fa.fa-cog.fa-spin.fa-3x.fa-fw.margin-bottom
+                        
+    div.col-md-12(ng-show="blogs")
         .panel(ng-repeat="blog in blogs | filter: filterBlog")
             .panel-heading(random-header)
                 h3.panel-title {{blog.title}}
