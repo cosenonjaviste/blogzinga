@@ -225,6 +225,7 @@
       "Emanuele Ruffaldi"
     ],
     "languages": ["eng"],
+    "preview": "img/thumbs/teslacore.png",
     "tags": [
       "C++",
       "Kinect",
