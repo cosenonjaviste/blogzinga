@@ -46,19 +46,22 @@
   {
     "version": 1,
     "title": "Alessandro Nizzo",
-    "topic": "Liferay e Java",
+    "topic": "Liferay, BPM, Data Integration e Java",
     "authors": [
-      "Alessandro Nizzo"
+    "Alessandro Nizzo"
     ],
     "languages": ["ita"],
     "preview": "img/thumbs/nizzo.jpg",
     "tags": [
-      "LifeRay",
-      "java"
+    "LifeRay",
+    "Bonita BPM",
+    "Pentaho Data Integration",
+    "java"
     ],
+    "github": "https://github.com/anizzo",
     "twitter": "https://twitter.com/alessandronizzo",
     "url": "http://www.alessandronizzo.it/"
-  },
+    },
    {
     "version": 1,
     "title": "Antonio Musarra's Blog",
