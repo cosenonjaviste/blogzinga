@@ -1,17 +1,18 @@
-.bs-component
-    nav.navbar.navbar-default
-        .container-fluid
-            .collapse.navbar-collapse
-                form.navbar-form.navbar-left.width100
-                    .form-group.width100
-                        input.form-control.width100(type="text", placeholder="Search", ng-model="filterBlog")
+.row
+    div.col-md-12
+        nav.navbar.navbar-default
+            .container-fluid
+                .collapse.navbar-collapse
+                    form.navbar-form.navbar-left.width100
+                        .form-group.width100
+                            input.form-control.width100(type="text", placeholder="Search", ng-model="filterBlog")
                         
     div.col-md-12(ng-show="!blogs", style="margin: 4em; text-align: center; font-size: 1.5em;")
         i.fa.fa-cog.fa-spin.fa-3x.fa-fw.margin-bottom
                         
     div.col-md-12(ng-show="blogs")
         .panel(ng-repeat="blog in blogs | filter: filterBlog")
-            .panel-heading(random-header)
+            .panel-heading(random-header, ng-click="openUrl(blog.url)")
                 h3.panel-title {{blog.title}}
             .panel-body
                 .row
@@ -21,7 +22,7 @@
                             em {{blog.authors | join}}
                         div(style="margin-top: 1em")
                             span(ng-repeat="tag in blog.tags")
-                                a.label(style="margin-right: 1em", random-label, href="", ng-click="filterByTag(tag)") {{tag}}
+                                a.label(style="margin-right: 1em; padding: 5px; font-size: .9em", random-label, href="", ng-click="filterByTag(tag)") {{tag}}
                     .col-md-3
                         img.hand.pull-right(ng-src="{{blog.preview}}", ng-click="openUrl(blog.url)" style="width: 200px")
                     .col-md-1
