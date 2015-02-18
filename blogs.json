@@ -216,5 +216,22 @@
     "twitter": "https://twitter.com/FrkCorti",
     "facebook": "https://www.facebook.com/francesco.corti",
     "url": "http://fcorti.com/"
-  }
+  },
+  {
+    "version": 1,
+    "title": "Emanuele Ruffaldi rti - ECM and BI Specialist",
+    "topic": "Randoms on Programming, VR, mainly C++",
+    "authors": [
+      "Emanuele Ruffaldi"
+    ],
+    "languages": ["eng"],
+    "tags": [
+      "C++",
+      "Kinect",
+      "VR"
+    ],
+    "github": "https://github.com/eruffaldi/",
+    "twitter": "https://twitter.com/eruffaldi",
+    "url": "http://teslacore.blogspot.it/"
+  }  
 ]
