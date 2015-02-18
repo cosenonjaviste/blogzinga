@@ -20,6 +20,7 @@ backend    = require './backend/app'
 protractor = require('gulp-protractor').protractor
 
 paths.libJs = [
+      './bower_components/jquery/jquery.js'
       './bower_components/angular/angular.js'
       './bower_components/angular-ui-router/release/angular-ui-router.js'
       './bower_components/angular-animate/angular-animate.js'
@@ -27,6 +28,7 @@ paths.libJs = [
       './bower_components/angular-bootstrap/ui-bootstrap-tpls.js'
       './bower_components/underscore/underscore.js'
       './bower_components/angular-utf8-base64/angular-utf8-base64.js'
+      './bower_components/bootstrap/dist/js/bootstrap.js'
       ]
 
 paths.libCss = [

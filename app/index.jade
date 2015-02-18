@@ -12,16 +12,20 @@ html(lang='en' ng-app='blogzinga')
 
     body
         .navbar.navbar-default.navbar-fixed-top
-            .container(style="height: 75px")
+            .container(style="min-height: 75px")
                 .navbar-header
                     a.navbar-brand(ui-sref="blogs.list") BlogZinga! <span style="font-size: 13px">by CoseNonJaviste</span>
                         div(style="font-size: 14px; font-style: italic; margin-bottom: 5px") La lista dei blog italiani di programmazione
-                .navbar-collapse.collapse
+                    button.navbar-toggle.collapsed(type="button", data-toggle="collapse", data-target="#navbar-main")
+                        span.icon-bar
+                        span.icon-bar
+                        span.icon-bar
+                #navbar-main.navbar-collapse.collapse
                     ul.nav.navbar-nav.navbar-right
                         li
                             a(ui-sref="blogs.about") Cos'è BlogZinga
         .container(ui-view="template")
-
+        
         script(src='js/lib.js?v=#{version}')
         script(src='js/templates.js?v=#{version}')
         script(src='js/app.js?v=#{version}')

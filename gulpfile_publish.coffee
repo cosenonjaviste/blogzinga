@@ -6,6 +6,7 @@ runSequence = require 'run-sequence'
 base.destDir = './browse/'
 
 base.paths.libJs = [
+  './bower_components/jquery/jquery.min.js'
   './bower_components/angular/angular.min.js'
   './bower_components/angular-ui-router/release/angular-ui-router.min.js'
   './bower_components/angular-animate/angular-animate.min.js'
@@ -14,6 +15,7 @@ base.paths.libJs = [
   './bower_components/angular-bootstrap/ui-bootstrap-tpls.js'
   './bower_components/underscore/underscore-min.js'
   './bower_components/angular-utf8-base64/angular-utf8-base64.min.js'
+  './bower_components/bootstrap/dist/js/bootstrap.min.js'
 ]
 
 base.paths.libCss = [
