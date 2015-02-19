@@ -2,7 +2,7 @@
 
 Find your favorite blogs here!
 
-[http://cosenonjaviste.github.io/blogzinga/browse](http://cosenonjaviste.github.io/blogzinga/browse)
+[http://www.blogzinga.it](http://www.blogzinga.it)
 
 ### How to build ###
 * install [node.js](http://nodejs.org/)
