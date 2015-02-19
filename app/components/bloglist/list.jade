@@ -1,14 +1,13 @@
 .row
     div.col-md-12.col-xs-12
-        nav.navbar.navbar-default
-            .container-fluid
-                .collapse.navbar-collapse
-                    form.navbar-form.navbar-left.width100
-                        .form-group.width100
-                            input.form-control.width100(type="text", placeholder="Search", ng-model="filterBlog")
+        .panel.panel-default
+            .panel-body
+                form.navbar-form.navbar-left.width100
+                    .form-group.width100
+                        input.form-control.width100(type="text", placeholder="Search", ng-model="filterBlog")
                         
-    div.col-md-12.col-xs-12(ng-show="!blogs", style="margin: 4em; text-align: center; font-size: 1.5em;")
-        i.fa.fa-cog.fa-spin.fa-3x.fa-fw.margin-bottom
+    div.col-md-12.col-xs-12(ng-show="!blogs", style="margin-top: 4em; text-align: center; font-size: 1.5em;")
+        i.fa.fa-cog.fa-spin.fa-3x.fa-fw
                         
     div.col-md-12.col-xs-12(ng-show="blogs")
         .panel(ng-repeat="blog in blogs | filter: filterBlog")
@@ -16,16 +15,16 @@
                 h3.panel-title {{blog.title}}
             .panel-body
                 .row
-                    .col-md-8
+                    .col-md-8.col-sm-8.col-xs-11
                         div {{blog.topic}}
                         div By: 
                             em {{blog.authors | join}}
                         div(style="margin-top: 1em")
                             span(ng-repeat="tag in blog.tags")
                                 a.label(style="margin-right: 1em; padding: 5px; font-size: .9em", random-label, href="", ng-click="filterByTag(tag)") {{tag}}
-                    .col-md-3
+                    .col-md-3.col-sm-2.hidden-xs
                         img.hand.pull-right(ng-src="{{blog.preview}}", ng-click="openUrl(blog.url)" style="width: 200px")
-                    .col-md-1
+                    .col-md-1.col-sm-2.col-xs-1
                         a.social.fa.fa-twitter(ng-href="{{blog.twitter}}", target="_blank", ng-if="blog.twitter")
                         a.social.fa.fa-facebook-official(ng-href="{{blog.facebook}}", target="_blank", ng-if="blog.facebook")
                         a.social.fa.fa-github(ng-href="{{blog.github}}", target="_blank", ng-if="blog.github")
