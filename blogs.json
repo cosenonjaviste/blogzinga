@@ -240,14 +240,14 @@
   {
     "version": 1,
     "title": "Dede Blog",
-    "topic": "",
+    "topic": "...",
     "authors": [
       "Davis Molinari"
     ],
     "languages": ["eng","ita"],
     "preview": "img/thumbs/davismol.png",
     "tags": [
-      "Python"
+      "Python",
       "Java",
       "Hibernate",
       "VB.NET"
