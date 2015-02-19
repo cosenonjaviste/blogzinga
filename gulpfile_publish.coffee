@@ -3,7 +3,7 @@ base = require './gulpfile.coffee'
 gulp = base.gulp
 runSequence = require 'run-sequence'
 
-base.destDir = './browse/'
+base.destDir = './gh-pages/'
 
 base.paths.libJs = [
   './bower_components/jquery/jquery.min.js'
@@ -24,7 +24,7 @@ base.paths.libCss = [
 ]
 
 gulp.task 'browse_clean', ['clean'], ->
-  gulp.src ['browse/']
+  gulp.src [base.destDir]
   .pipe rimraf
     read: false
     force: true
