@@ -273,6 +273,21 @@
       "VB.NET"
     ],
     "url": "http://www.davismol.net/"
+  } ,
+  {
+    "version": 1,
+    "title": "ONGOING DEV",
+    "topic": "Quick tips about Android Development",
+    "authors": [
+      "Gabriele Mariotti"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/gmariotti.jpg",
+    "tags": [
+      "Android",
+      "Java"
+    ],
+    "url": "http://gmariotti.blogspot.it/"
   }
   
 ]
