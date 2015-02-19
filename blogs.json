@@ -65,15 +65,17 @@
    {
     "version": 1,
     "title": "Antonio Musarra's Blog",
-    "topic": "Tutto quello che c'è da sapere su LifeRay e SugarCRM, qui c'è",
+    "topic": "Tutto quello che c'è da sapere su Liferay, SugarCRM e integrazioni qui c'è",
     "authors": [
       "Antonio Musarra"
     ],
     "languages": ["ita"],
     "preview": "img/thumbs/musarra.jpg",
     "tags": [
-      "LifeRay",
-      "SugarCRM"
+      "Liferay",
+      "SugarCRM",
+      "Web Services",
+      "ESB"
     ],
     "github": "https://github.com/amusarra/",
     "twitter": "https://twitter.com/antonio_musarra",
