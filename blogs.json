@@ -236,5 +236,23 @@
     "github": "https://github.com/eruffaldi/",
     "twitter": "https://twitter.com/eruffaldi",
     "url": "http://teslacore.blogspot.it/"
-  }  
+  } ,
+  {
+    "version": 1,
+    "title": "Dede Blog",
+    "topic": "",
+    "authors": [
+      "Davis Molinari"
+    ],
+    "languages": ["eng","ita"],
+    "preview": "img/thumbs/davismol.png",
+    "tags": [
+      "Python"
+      "Java",
+      "Hibernate",
+      "VB.NET"
+    ],
+    "url": "http://www.davismol.net/"
+  }
+  
 ]
