@@ -6,6 +6,7 @@ class BlogzingaApp extends App then constructor: -> return [
   'templates'
   'bloglist'
   'about'
+  'contribute'
 ]
 
 class BlogzingaConfiguration extends Config

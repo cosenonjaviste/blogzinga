@@ -42,9 +42,11 @@ commons =
       ##for windows
       return appName: 'bloglist' if file.path.indexOf('components\\bloglist') isnt -1
       return appName: 'about' if file.path.indexOf('components\\about') isnt -1
+      return appName: 'contribute' if file.path.indexOf('components\\contribute') isnt -1
             ##for unix
       return appName: 'bloglist' if file.path.indexOf('components/bloglist') isnt -1
       return appName: 'about' if file.path.indexOf('components/about') isnt -1
+      return appName: 'contribute' if file.path.indexOf('components/contribute') isnt -1
 
       return appName: 'blogzinga'
 
