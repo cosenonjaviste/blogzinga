@@ -1,6 +1,26 @@
 [
   {
     "version": 1,
+    "title": "Domenico Luciani | DLion ~ Blog",
+    "topic": "Programmazione, Sicurezza, Raspberry Pi e Visione Artificiale",
+    "authors": [
+      "Domenico Luciani"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/dlion.png",
+    "tags": [
+      "programmazione",
+      "sicurezza",
+      "opencv",
+      "node"
+    ],
+    "facebook": "https://www.facebook.com/dlion.smagen",
+    "github": "https://github.com/DLion",
+    "twitter": "https://twitter.com/dlion92",
+    "url": "http://dlion.it"
+  },
+  {
+    "version": 1,
     "title": "CoseNonJaviste",
     "topic": "Tutorial e approfondimenti sul mondo Java e Android",
     "authors": [
