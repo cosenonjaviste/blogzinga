@@ -288,6 +288,21 @@
       "Java"
     ],
     "url": "http://gmariotti.blogspot.it/"
+  },
+   {
+    "version": 1,
+    "title": "Surviving w/ Android",
+    "topic": "Android development blog Tutorials about Android dev topics",
+    "authors": [
+      "Francesco Azzola"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/azzola.jpg",
+    "tags": [
+      "Android",
+      "Java"
+    ],
+    "url": "http://www.survivingwithandroid.com/"
   }
   
 ]
