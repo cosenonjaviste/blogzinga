@@ -42,7 +42,7 @@ class BlogListService extends Factory
   constructor: ($http, base64) ->
     return {
       getBlogs : () ->
-        $http.get('https://api.github.com/repos/cosenonjaviste/blogzinga/contents/blogs.json?ref=master').then (resp) ->
+        $http.get('https://api.github.com/repos/cosenonjaviste/blogzinga/contents/blogs.json?ref=gh-pages').then (resp) ->
           base64Content = resp.data.content
           angular.fromJson base64.decode base64Content
 

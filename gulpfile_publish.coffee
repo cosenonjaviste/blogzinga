@@ -23,14 +23,18 @@ base.paths.libCss = [
   './bower_components/font-awesome/css/font-awesome.min.css'
 ]
 
-gulp.task 'browse_clean', ['clean'], ->
+gulp.task 'dest_clean', ['clean'], ->
   gulp.src [base.destDir]
   .pipe rimraf
     read: false
     force: true
 
+gulp.task 'publishBlogs', ->
+  gulp.src ['./blogs.json']
+    .pipe gulp.dest base.destDir
+    
 gulp.task 'default', ->
-  runSequence 'browse_clean', 
+  runSequence 'dest_clean',
   [
     'appJs',
     'libJs',
@@ -43,5 +47,6 @@ gulp.task 'default', ->
     'favicon',
     'fonts',
     'libMap',
+    'publishBlogs',
     'connect',
   ]
