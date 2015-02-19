@@ -4,6 +4,11 @@ Find your favorite blogs here!
 
 [http://www.blogzinga.it](http://www.blogzinga.it)
 
+### How to contribute ###
+* Fork this repo
+* Add your favorite blogs to [blogs.json](https://github.com/cosenonjaviste/blogzinga/blob/master/blogs.json)
+* Aks for a Pull Request, we will merge ASAP
+
 ### How to build ###
 * install [node.js](http://nodejs.org/)
 * in *root* folder
