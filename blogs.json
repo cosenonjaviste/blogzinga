@@ -351,25 +351,25 @@
   },
   {
     "version": 1,
-    "title": "Il Web Di Fabio",
-    "topic": "Sito personale e blog di Fabio Bedini aka whisher",
+    "title": "The Darshan’s Weblog | Il blog di Vincenzo La Spesa",
+    "topic": "Programmazione, Sicurezza, Raspberry Pi e Visione Artificiale",
     "authors": [
-      "Fabio Bedini"
+      "Vincenzo La Spesa"
     ],
     "languages": ["ita"],
-    "preview": "img/thumbs/ilwebdifabio.png",
+    "preview": "img/thumbs/darshan.png",
     "tags": [
-      "Angularjs",
-      "Mean",
-      "Phonegap",
-      "Ionic",
-      "Javascript",
-      "Php",
-      "Laravel"
+      "programmazione",
+      "algoritmica",
+      "programmazione concorrente",
+      "algoritmi numerici",
+      "Ruby",
+      "C++",
+      "Java"
     ],
-    "url": "http://ilwebdifabio.it",
-    "github": "https://github.com/whisher",
-    "twitter": "https://twitter.com/ilwebdifabio"
+    "facebook": "https://www.facebook.com/vincenzo.laspesa",
+    "github": "https://github.com/VincenzoLaSpesa",
+    "twitter": "https://twitter.com/Darshan_tweet",
+    "url": "http://www.thedarshan.com/"
   }
-
 ]
