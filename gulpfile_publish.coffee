@@ -21,6 +21,7 @@ base.paths.libJs = [
 base.paths.libCss = [
   './app/css/bootstrap.min.css'
   './bower_components/font-awesome/css/font-awesome.min.css'
+  './bower_components/octicons/octicons/css/octicons.css'
 ]
 
 gulp.task 'dest_clean', ['clean'], ->

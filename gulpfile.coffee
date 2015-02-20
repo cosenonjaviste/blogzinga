@@ -34,7 +34,7 @@ paths.libJs = [
 paths.libCss = [
       './app/css/bootstrap.css'
       './bower_components/font-awesome/css/font-awesome.css'
-      './bower_components/octicons/octicons/octicons.css'
+      './bower_components/octicons/octicons/css/octicons.css'
     ]
 
 paths.minMaps = [

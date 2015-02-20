@@ -20,7 +20,7 @@ commons =
     fonts:[
       './bower_components/bootstrap/fonts/*', 
       './bower_components/font-awesome/fonts/*'
-      './bower_components/octicons/octicons/'
+      './bower_components/octicons/octicons/fonts/*'
     ]
     templates: [
       '!./app/index.jade'
