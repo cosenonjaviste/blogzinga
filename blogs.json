@@ -303,6 +303,22 @@
       "Java"
     ],
     "url": "http://www.survivingwithandroid.com/"
+  },
+   {
+    "version": 1,
+    "title": "Giuseppe Sorce",
+    "topic": "Android development blog"
+    "authors": [
+      "Giuseppe Sorce"
+    ],
+    "languages": ["it"],
+    "preview": "",
+    "tags": [
+      "Android",
+      "Java","Mobile","Android Studio"
+    ],
+    "url": "http://www.giuseppesorce.com/"
+    "twitter": "https://twitter.com/warpmobile_it",
   }
   
 ]
