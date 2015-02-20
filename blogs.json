@@ -21,6 +21,27 @@
   },
   {
     "version": 1,
+    "title": "GianArb | Personal Blog",
+    "topic": "Php, Go, Git, OpenSource, Javascript, Best Practices and other developer stuff",
+    "authors": [
+      "Gianluca Arbezzano"
+    ],
+    "languages": ["en"],
+    "preview": "img/thumbs/cnj.jpg",
+    "tags": [
+      "git",
+      "opensource",
+      "php",
+      "best-practices",
+      "go",
+      "angularjs"
+    ],
+    "github": "https://github.com/gianarb",
+    "twitter": "https://twitter.com/GianArb",
+    "url": "http://gianarb.it"
+  },
+  {
+    "version": 1,
     "title": "CoseNonJaviste",
     "topic": "Tutorial e approfondimenti sul mondo Java e Android",
     "authors": [
@@ -350,4 +371,5 @@
     "github": "https://github.com/whisher",
     "twitter": "https://twitter.com/ilwebdifabio"
   }
+
 ]
