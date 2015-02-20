@@ -371,5 +371,27 @@
     "github": "https://github.com/VincenzoLaSpesa",
     "twitter": "https://twitter.com/Darshan_tweet",
     "url": "http://www.thedarshan.com/"
+  },
+  {
+    "version": 1,
+    "title": "Il Web Di Fabio",
+    "topic": "Sito personale e blog di Fabio Bedini aka whisher",
+    "authors": [
+      "Fabio Bedini"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/ilwebdifabio.png",
+    "tags": [
+      "Angularjs",
+      "Mean",
+      "Phonegap",
+      "Ionic",
+      "Javascript",
+      "Php",
+      "Laravel"
+    ],
+    "url": "http://ilwebdifabio.it",
+    "github": "https://github.com/whisher",
+    "twitter": "https://twitter.com/ilwebdifabio"
   }
 ]
