@@ -16,6 +16,7 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded());
 app.use(cookieParser());
+console.log(path.join(__dirname, 'public'));
 app.use(express.static(path.join(__dirname, 'public')));
 
 /// catch 404 and forward to error handler
