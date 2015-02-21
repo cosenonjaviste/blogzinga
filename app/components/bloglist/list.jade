@@ -10,7 +10,7 @@
         i.fa.fa-cog.fa-spin.fa-3x.fa-fw
                         
     div.col-md-12.col-xs-12(ng-show="blogs")
-        .panel(ng-repeat="blog in blogs | filter: filterBlog")
+        .panel(ng-repeat="blog in blogs | search: filterBlog")
             .panel-heading(random-header, ng-click="openUrl(blog.url)")
                 h3.panel-title {{blog.title}}
             .panel-body

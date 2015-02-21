@@ -29,12 +29,15 @@ class BlogList extends Controller
       #  for tag, i in blog.tags
       #    blog['tag_' + i] = tag
       return
-    
+
     $scope.openUrl = (url) ->
       window.open url
-      
+
     $scope.filterByTag = (tag) ->
-      $scope.filterBlog = tag
+      if not $scope.filterBlog
+        $scope.filterBlog = tag
+      else
+        $scope.filterBlog += ' ' + tag
 
 
 
@@ -52,21 +55,21 @@ class Join extends Filter
   constructor: ->
     return (value) ->
       value.join? ', '
-      
+
 class RandomHeader extends Directive
   constructor: ->
     return {
       restrict: 'A'
       link: ($scope, $element, $attrs) ->
         classes = ['panel-primary', 'panel-success', 'panel-warning', 'panel-danger', 'panel-info']
-        
+
         random = () ->
           Math.floor Math.random() * (classes.length - 1);
-          
+
         $element.parent().addClass classes[random()]
         return
     }
-    
+
 class RandomLabel extends Directive
   constructor: ->
     return {
@@ -76,7 +79,20 @@ class RandomLabel extends Directive
 
         random = () ->
           Math.floor Math.random() * (classes.length - 1);
-          
+
         $element.addClass classes[random()]
     }
 
+class Search extends Filter
+  constructor: ($filter) ->
+    return (list, searchString) ->
+      if searchString
+        tokens = searchString.split ' '
+        result = []
+        _.each tokens, (token) ->
+          lookup = $filter('filter')(list, token)
+          result = lookup if result.length == 0
+          result = _.intersection result, lookup if lookup.length > 0
+        return result
+      else
+        return list
