@@ -1,11 +1,11 @@
 @gray-light: #efefef;
 
 body {
-  background-color: @gray-light !important;
+  background-color: @gray-light;
 }
 
 .panel .panel-heading {
-  padding: 15px !important;
+  padding: 15px;
 }
 
 .panel .panel-heading:hover {
@@ -20,18 +20,49 @@ body {
   cursor: pointer;
 }
 
+.tags {
+  margin: 1em 1em 0 0; 
+  padding: 5px; 
+  font-size: .9em; 
+  float: left;
+}
+
+.blog-image {
+  text-align: right;
+}
+
 .social {
-  font-size: 1.5em !important;
-  display: inline-block !important;
+  font-size: 1.5em;
+  display: inline-block;
   margin-left: 1em;
   margin-bottom: 18px;
   //float: right;
   color: #555;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   .social {
-    margin: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .blog-image {
+    text-align: center;
+    margin-top: 2em;
+  }
+  
+  .social-links {
+    text-align: center;
+    margin-top: 2em;
+  }
+  
+  .social {
+    margin-left: 1em;
+  }
+  
+  .step {
+    margin-bottom: 2em;
   }
 }
 
@@ -40,23 +71,27 @@ body {
 }
 
 .page-header {
-  border-bottom: 1px solid #ccc !important;
+  border-bottom: 1px solid #ccc;
 }
 
 .page-header > h1 {
-  font-size: 40px !important;
+  font-size: 40px;
 }
 
 .page-header > h2 {
-  font-size: 35px !important;
+  font-size: 35px;
 }
 
 .page-header > h3 {
-  font-size: 30px !important;
+  font-size: 30px;
 }
 
 .about .list-group-item-text {
-   color: #888 !important;
+   color: #888;
+}
+
+.contribute h1 {
+  font-size: 3em;
 }
 
 .contribute .step {
@@ -69,4 +104,8 @@ body {
 
 .contribute .step span {
   font-size: 1.5em;
+}
+
+.steps {
+  margin-top: 3em;
 }

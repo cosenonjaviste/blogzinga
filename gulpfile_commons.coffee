@@ -15,7 +15,7 @@ commons =
 
   paths :
     appJs: ['./app/**/*.coffee','./app/**/*.js']
-    appCss: ['./app/**/*.less', './app/**/*.css']
+    appCss: ['./app/**/*.less']
     img:['./app/**/*.png','./app/**/*.gif','./app/**/*.jpg']
     fonts:[
       './bower_components/bootstrap/fonts/*', 

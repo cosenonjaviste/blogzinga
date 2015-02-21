@@ -5,16 +5,17 @@ html(lang='en' ng-app='blogzinga')
         meta(http-equiv='X-UA-Compatible', content='IE=edge')
         meta(name='viewport', content='width=device-width, initial-scale=1')
         meta(name='description', content='')
-        meta(name='author', content='BlogZinga! La lista dei blog italiani di programmazione')
-        title BlogZinga! La lista dei blog italiani di programmazione
-        link(href='css/style.css?v=#{version}', rel='stylesheet')
+        meta(name='author', content='BlogZinga! La lista dei blog di programmatori italiani')
+        title BlogZinga! La lista dei blog di programmatori italiani
         link(href='css/lib.css?v=#{version}', rel='stylesheet')
-
+        link(href='css/style.css?v=#{version}', rel='stylesheet')
     body
         .navbar.navbar-default.navbar-fixed-top
             .container(style="min-height: 75px")
                 .navbar-header
-                    a.navbar-brand(ui-sref="blogs.list") BlogZinga! <span style="font-size: 13px">by CoseNonJaviste</span>
+                    a.visible-xs.navbar-brand(ui-sref="blogs.list") BlogZinga! <span style="font-size: 13px">by CNJ</span>
+                        div(style="font-size: 14px; font-style: italic; margin-bottom: 5px") I blog di sviluppatori italiani
+                    a.visible-sm.visible-md.visible-lg.navbar-brand(ui-sref="blogs.list") BlogZinga! <span style="font-size: 13px">by CoseNonJaviste</span>
                         div(style="font-size: 14px; font-style: italic; margin-bottom: 5px") La lista dei blog di sviluppatori italiani
                     button.navbar-toggle.collapsed(type="button", data-toggle="collapse", data-target="#navbar-main")
                         span.icon-bar
@@ -31,3 +32,4 @@ html(lang='en' ng-app='blogzinga')
         script(src='js/lib.js?v=#{version}')
         script(src='js/templates.js?v=#{version}')
         script(src='js/app.js?v=#{version}')
+
