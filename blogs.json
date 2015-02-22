@@ -393,5 +393,24 @@
     "url": "http://ilwebdifabio.it",
     "github": "https://github.com/whisher",
     "twitter": "https://twitter.com/ilwebdifabio"
+  },
+  {
+    "version": 1,
+    "title": "Il blog di Andrea Sartori",
+    "topic": "Tutorial sulla programmazione con PHP e Laravel.",
+    "authors": [
+      "Andrea Marco Sartori"
+    ],
+    "languages": ["ita", "eng"],
+    "preview": "img/thumbs/sartori.jpg",
+    "tags": [
+      "OOP",
+      "SOLID",
+      "PHP",
+      "Laravel"
+    ],
+    "url": "http://blog.andreasartori.me/it/",
+    "github": "https://github.com/cerbero90",
+    "twitter": "https://twitter.com/cerbero90"
   }
 ]
