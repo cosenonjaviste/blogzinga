@@ -12,7 +12,7 @@ class BlogListConfiguration extends Config
 
     $stateProvider
       .state 'blogs.list',
-        url: '/'
+        url: '/home'
         views:
           '':
             templateUrl: 'components/bloglist/list.html'
@@ -20,9 +20,9 @@ class BlogListConfiguration extends Config
 
 
 class BlogList extends Controller
-  constructor: ($scope, BlogListService) ->
+  constructor: ($scope, BlogListService, $rootScope) ->
     BlogListService.getBlogs().then (resp) ->
-      $scope.$emit 'snapshot:ready', 'ready'
+      $rootScope.status = 'ready'
       $scope.blogs = _.sortBy resp, 'title'
       #for blog in $scope.blogs
       #  for author, i in blog.authors

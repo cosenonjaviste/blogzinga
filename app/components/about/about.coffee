@@ -15,3 +15,8 @@ class AboutConfiguration extends Config
         views:
           '':
             templateUrl: 'components/about/about.html'
+            controller: 'aboutController'
+
+class About extends Controller
+  constructor: ($rootScope) ->
+    $rootScope.status = 'ready'

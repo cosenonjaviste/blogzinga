@@ -17,13 +17,13 @@ class BlogzingaConfiguration extends Config
     $httpProvider.defaults.headers.get['If-Modified-Since'] = '0'
 
     $locationProvider
-    .html5Mode on
+    .html5Mode off
     
-    #$locationProvider
-    #.hashPrefix '!'
+    $locationProvider
+    .hashPrefix '!'
 
     $urlRouterProvider
-    .otherwise '/'
+    .otherwise '/home'
 
     $stateProvider
     .state 'blogs',
@@ -32,8 +32,7 @@ class BlogzingaConfiguration extends Config
       views:
         'template':
           templateUrl: 'components/home.html'
-
-class Snapshot extends Controller
-  constructor: ($scope) ->
-    $scope.$on 'snapshot:ready', (event, value) ->
-      $scope.status = value
+          
+class Startup extends Run
+  constructor: ($rootScope) ->
+    $rootScope.status = 'not ready'

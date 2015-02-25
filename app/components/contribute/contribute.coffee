@@ -15,3 +15,8 @@ class ContributeConfiguration extends Config
         views:
           '':
             templateUrl: 'components/contribute/contribute.html'
+            controller: 'contributeController'
+            
+class Contribute extends Controller
+  constructor: ($rootScope) ->
+    $rootScope.status = 'ready'
