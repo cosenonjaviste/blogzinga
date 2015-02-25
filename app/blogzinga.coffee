@@ -17,15 +17,18 @@ class BlogzingaConfiguration extends Config
     $httpProvider.defaults.headers.get['If-Modified-Since'] = '0'
 
     $locationProvider
-    .html5Mode off
+    .html5Mode on
+    
+    #$locationProvider
+    #.hashPrefix '!'
 
     $urlRouterProvider
-    .otherwise '/blogs/list'
+    .otherwise '/'
 
     $stateProvider
     .state 'blogs',
       abstract: true
-      url: '/blogs'
+      url: ''
       views:
         'template':
           templateUrl: 'components/home.html'

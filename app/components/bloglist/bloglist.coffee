@@ -12,7 +12,7 @@ class BlogListConfiguration extends Config
 
     $stateProvider
       .state 'blogs.list',
-        url: '/list'
+        url: '/'
         views:
           '':
             templateUrl: 'components/bloglist/list.html'
