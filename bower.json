@@ -12,7 +12,9 @@
     "test",
     "tests"
   ],
-  "devDependencies": {},
+  "devDependencies": {
+    "AngularJS-SEO-Article": "https://github.com/yearofmoo-articles/AngularJS-SEO-Article.git"
+  },
   "dependencies": {
     "angularjs": "~1.2.20",
     "angular-ui-router": "~0.2.10",

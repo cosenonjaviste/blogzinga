@@ -20,8 +20,9 @@ class BlogListConfiguration extends Config
 
 
 class BlogList extends Controller
-  constructor: ($scope, BlogListService, base64) ->
+  constructor: ($scope, BlogListService) ->
     BlogListService.getBlogs().then (resp) ->
+      $scope.$emit 'snapshot:ready', 'ready'
       $scope.blogs = _.sortBy resp, 'title'
       #for blog in $scope.blogs
       #  for author, i in blog.authors

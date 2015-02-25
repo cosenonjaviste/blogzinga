@@ -32,3 +32,8 @@ class BlogzingaConfiguration extends Config
       views:
         'template':
           templateUrl: 'components/home.html'
+
+class Snapshot extends Controller
+  constructor: ($scope) ->
+    $scope.$on 'snapshot:ready', (event, value) ->
+      $scope.status = value

@@ -36,7 +36,7 @@
     "minijasminenode2": "^1.0.0",
     "moment": "^2.8.3",
     "morgan": "^1.5.1",
-    "phantomjs": "^1.9.7-15",
+    "phantomjs": "^1.9.15",
     "protractor": "^1.1.1",
     "protractor-html-screenshot-reporter": "0.0.16",
     "proxy-middleware": "^0.5.1",
