@@ -3,7 +3,7 @@ base = require './gulpfile.coffee'
 gulp = base.gulp
 runSequence = require 'run-sequence'
 
-base.destDir = './gh-pages/'
+base.destDir = './dist/'
 
 base.paths.libJs = [
   './bower_components/jquery/jquery.min.js'
@@ -16,6 +16,9 @@ base.paths.libJs = [
   './bower_components/underscore/underscore-min.js'
   './bower_components/angular-utf8-base64/angular-utf8-base64.min.js'
   './bower_components/bootstrap/dist/js/bootstrap.min.js'
+  './bower_components/angulartics/dist/angulartics.min.js'
+  './bower_components/angulartics/dist/angulartics-ga.min.js'
+  './bower_components/SHA-1/sha1.js'
 ]
 
 base.paths.libCss = [
@@ -30,8 +33,10 @@ gulp.task 'dest_clean', ['clean'], ->
     read: false
     force: true
 
-gulp.task 'publishBlogs', ->
-  gulp.src ['./blogs.json']
+gulp.task 'publishFiles', ->
+  gulp.src [
+    './sitemap.xml'
+  ]
     .pipe gulp.dest base.destDir
     
 gulp.task 'default', ->
@@ -44,10 +49,9 @@ gulp.task 'default', ->
     'templates',
     'appCss',
     'libCss',
-    'img',
     'favicon',
     'fonts',
     'libMap',
-    'publishBlogs',
+    'publishFiles',
     'connect',
   ]

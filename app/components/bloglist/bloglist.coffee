@@ -24,11 +24,6 @@ class BlogList extends Controller
     BlogListService.getBlogs().then (resp) ->
       $rootScope.status = 'ready'
       $scope.blogs = _.sortBy resp, 'title'
-      #for blog in $scope.blogs
-      #  for author, i in blog.authors
-      #    blog['author_' + i] = author
-      #  for tag, i in blog.tags
-      #    blog['tag_' + i] = tag
       return
 
     $scope.openUrl = (url) ->
@@ -46,7 +41,7 @@ class BlogListService extends Factory
   constructor: ($http, base64) ->
     return {
       getBlogs : () ->
-        $http.get('https://api.github.com/repos/cosenonjaviste/blogzinga/contents/blogs.json?ref=gh-pages').then (resp) ->
+        $http.get('https://api.github.com/repos/cosenonjaviste/blogzinga/contents/blogs.json?ref=master').then (resp) ->
           base64Content = resp.data.content
           angular.fromJson base64.decode base64Content
 

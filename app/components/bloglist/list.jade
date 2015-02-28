@@ -23,7 +23,7 @@
                             span(ng-repeat="tag in blog.tags")
                                 a.label.tags(random-label, href="", ng-click="filterByTag(tag)") {{tag}}
                     .col-xs-12.col-sm-4.blog-image
-                        img.hand(ng-src="/{{blog.preview}}", ng-click="openUrl(blog.url)" style="width: 200px")
+                        img.hand(ng-src="https://raw.githubusercontent.com/cosenonjaviste/blogzinga/master/app/{{blog.preview}}", ng-click="openUrl(blog.url)" style="width: 200px")
                     .col-xs-12.col-sm-1.social-links
                         a.social.fa.fa-twitter(ng-href="{{blog.twitter}}", target="_blank", ng-if="blog.twitter")
                         a.social.fa.fa-facebook-official(ng-href="{{blog.facebook}}", target="_blank", ng-if="blog.facebook")
