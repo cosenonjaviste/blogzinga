@@ -36,6 +36,7 @@
     "moment": "~2.8.4",
     "angular-utf8-base64": "~0.0.5",
     "font-awesome": "~4.3.0",
-    "octicons": "https://github.com/cosenonjaviste/octicons.git#master"
+    "octicons": "https://github.com/cosenonjaviste/octicons.git#master",
+    "angulartics": "~0.17.2"
   }
 }

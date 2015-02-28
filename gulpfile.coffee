@@ -29,6 +29,9 @@ paths.libJs = [
       './bower_components/underscore/underscore.js'
       './bower_components/angular-utf8-base64/angular-utf8-base64.js'
       './bower_components/bootstrap/dist/js/bootstrap.js'
+      './bower_components/angulartics/src/angulartics.js'
+      './bower_components/angulartics/src/angulartics-ga.js'
+      './bower_components/SHA-1/sha1.js'
       ]
 
 paths.libCss = [
@@ -66,6 +69,8 @@ gulp.task 'libJs', ->
 gulp.task 'minMaps', ->
   gulp.src paths.minMaps
     .pipe gulp.dest base.destDir + 'js/maps'
+  gulp.src './bower_components/underscore/underscore-min.map'
+    .pipe gulp.dest base.destDir + 'js'
 
 gulp.task 'index', ->
   gulp.src paths.index

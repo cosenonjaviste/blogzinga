@@ -4,6 +4,8 @@ App Module
 class BlogzingaApp extends App then constructor: -> return [
   'ui.router'
   'templates'
+  'angulartics'
+  'angulartics.google.analytics'
   'bloglist'
   'about'
   'contribute'
