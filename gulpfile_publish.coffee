@@ -36,6 +36,7 @@ gulp.task 'dest_clean', ['clean'], ->
 gulp.task 'publishFiles', ->
   gulp.src [
     './sitemap.xml'
+    './robots.txt'
   ]
     .pipe gulp.dest base.destDir
     
