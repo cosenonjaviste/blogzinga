@@ -1,7 +1,12 @@
 @gray-light: #efefef;
+@grey-dark: #888;
 
 body {
   background-color: @gray-light;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 .panel .panel-heading {
@@ -36,7 +41,6 @@ body {
   display: inline-block;
   margin-left: 1em;
   margin-bottom: 18px;
-  //float: right;
   color: #555;
 }
 
@@ -87,11 +91,15 @@ body {
 }
 
 .about .list-group-item-text {
-   color: #888;
+   color: @grey-dark;
 }
 
 .contribute h1 {
   font-size: 3em;
+}
+
+.contribute h2 {
+  font-size: 2em;
 }
 
 .contribute .step {
@@ -108,4 +116,9 @@ body {
 
 .steps {
   margin-top: 3em;
+}
+
+.contribute .list-group-item-text {
+  color: @grey-dark;
+  font-size: 1.2em;
 }
