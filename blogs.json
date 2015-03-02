@@ -1,6 +1,22 @@
 [
   {
     "version": 1,
+    "title": "Marco Napolitano | Passionate and addicted to technology",
+    "topic": "...",
+    "authors": [
+      "Marco Napolitano"
+    ],
+    "languages": ["ita", "eng"],
+    "preview": "img/thumbs/marconapolitano.png",
+    "tags": [
+      "programmazione",
+      "LifeRay"
+    ],
+    "twitter": "http://www.twitter.com/batnapo",
+    "url": "http://marconapolitano.it"
+  },
+  {
+    "version": 1,
     "title": "Domenico Luciani | DLion ~ Blog",
     "topic": "Programmazione, Sicurezza, Raspberry Pi e Visione Artificiale",
     "authors": [
