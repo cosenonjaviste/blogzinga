@@ -1,4 +1,26 @@
 [
+    {
+    "version": 3,
+    "title": "Luongo Vincenzo - Blog",
+    "topic": "Hacking, Android, Programmazione, Sicurezza, Linux e Open Source",
+    "authors": [
+      "Luongo Vincenzo"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/luongovincenzo.png",
+    "tags": [
+      "programmazione",
+      "sicurezza",
+      "hacking",
+      "android",
+      "linux",
+      "opensource"
+    ],
+    "github": "https://github.com/KinG-InFeT/",
+    "twitter": "https://twitter.com/KinG_InFeT",
+    "url": "http://www.luongovincenzo.it/blog",
+    "linkedin": "https://www.linkedin.com/in/luongovincenzo"
+  },
   {
     "version": 1,
     "title": "Domenico Luciani | DLion ~ Blog",
