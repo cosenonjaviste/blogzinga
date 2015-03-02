@@ -410,23 +410,45 @@
     "github": "https://github.com/whisher",
     "twitter": "https://twitter.com/ilwebdifabio"
   },
-  {
+    {
+        "version": 1,
+        "title": "Il blog di Andrea Sartori",
+        "topic": "Tutorial sulla programmazione con PHP e Laravel.",
+        "authors": [
+            "Andrea Marco Sartori"
+        ],
+        "languages": [ "ita", "eng" ],
+        "preview": "img/thumbs/sartori.jpg",
+        "tags": [
+            "OOP",
+            "SOLID",
+            "PHP",
+            "Laravel"
+        ],
+        "url": "http://blog.andreasartori.me/it/",
+        "github": "https://github.com/cerbero90",
+        "twitter": "https://twitter.com/cerbero90"
+    },
+    {
     "version": 1,
-    "title": "Il blog di Andrea Sartori",
-    "topic": "Tutorial sulla programmazione con PHP e Laravel.",
+    "title": "JesusWasRasta - Ferdinando Santacroce's blog",
+    "topic": "Pictures from a developer everyday life.",
     "authors": [
-      "Andrea Marco Sartori"
+      "Ferdinando Santacroce"
     ],
     "languages": ["ita", "eng"],
-    "preview": "img/thumbs/sartori.jpg",
+    "preview": "img/thumbs/jesuswasrasta.png",
     "tags": [
       "OOP",
       "SOLID",
-      "PHP",
-      "Laravel"
+      "Agile",
+      "Git",
+      "C#",
+      ".NET"
     ],
-    "url": "http://blog.andreasartori.me/it/",
-    "github": "https://github.com/cerbero90",
-    "twitter": "https://twitter.com/cerbero90"
+    "url": "http://jesuswasrasta.com",
+    "github": "https://github.com/jesuswasrasta",
+    "twitter": "https://twitter.com/jesuswasrasta",
+    "facebook": "https://www.facebook.com/ferdinando.santacroce"
   }
 ]
