@@ -39,6 +39,12 @@ gulp.task 'publishFiles', ->
     './robots.txt'
   ]
     .pipe gulp.dest base.destDir
+
+gulp.task 'publishBackend', ->
+  gulp.src [
+    './backend/*.php',
+  ]
+    .pipe gulp.dest base.destDir + 'backend'
     
 gulp.task 'default', ->
   runSequence 'dest_clean',
@@ -54,5 +60,6 @@ gulp.task 'default', ->
     'fonts',
     'libMap',
     'publishFiles',
+    'publishBackend',
     'connect',
   ]
