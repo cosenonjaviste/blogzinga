@@ -512,5 +512,24 @@
     ],
     "url": "http://www.francolombardo.net",
     "twitter": "https://twitter.com/f_lombardo"
+  },
+   {
+    "version": 1,
+    "title": "Daniela Sfregola",
+    "topic": "Girl Coding – Learn as if you were to live forever. M. Gandhi",
+    "authors": [
+      "Daniela Sfregola"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/sfregola.png",
+    "tags": [
+      "Scala",
+      "Akka",
+      "Spray"
+    ],
+    "url": "http://danielasfregola.com/",
+    "twitter": "https://twitter.com/DanielaSfregola",
+    "linkedin": "https://www.linkedin.com/in/danielasfregola"
   }
+  
 ]
