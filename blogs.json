@@ -472,5 +472,25 @@
     "github": "https://github.com/jesuswasrasta",
     "twitter": "https://twitter.com/jesuswasrasta",
     "facebook": "https://www.facebook.com/ferdinando.santacroce"
+  },
+  {
+    "version": 1,
+    "title": "Dede blog",
+    "topic": "Sito personale e blog di Davis Molinari che tratta di diversi linguaggi",
+    "authors": [
+      "Davis Molinari"
+    ],
+    "languages": ["ita", "eng"],
+    "preview": "img/thumbs/dede.png",
+    "tags": [
+      "Java",
+      "Python",
+      "ObjectiveC",
+      "C",
+      "Ocaml",
+      "Hibernate",
+      "JSON"
+    ],
+    "url": "http://www.davismol.net/"
   }
 ]
