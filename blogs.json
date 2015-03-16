@@ -321,26 +321,6 @@
   },
   {
     "version": 1,
-    "title": "Dede Blog",
-    "topic": "...",
-    "authors": [
-      "Davis Molinari"
-    ],
-    "languages": [
-      "eng",
-      "ita"
-    ],
-    "preview": "img/thumbs/davismol.png",
-    "tags": [
-      "Python",
-      "Java",
-      "Hibernate",
-      "VB.NET"
-    ],
-    "url": "http://www.davismol.net/"
-  },
-  {
-    "version": 1,
     "title": "ONGOING DEV",
     "topic": "Quick tips about Android Development",
     "authors": [
