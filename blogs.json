@@ -473,7 +473,7 @@
     ],
     "url": "http://www.davismol.net/"
   },
-   {
+  {
     "version": 1,
     "title": "Refacturing",
     "topic": "Il nome del blog è ottenuto dalla parola refactoring,  dove cambiando una vocale posso rendere omaggio a chi, a ragione,  può essere considerato uno dei ‘padri’ dell’Informatica : Alan Turing.",
@@ -491,5 +491,26 @@
     "url": "http://www.refacturing.it/blog/",
     "twitter": "https://twitter.com/ricmancio",
     "facebook": "https://www.facebook.com/riccardo.mancinelli"
+  },
+  {
+    "version": 1,
+    "title": "Franco Lombardo",
+    "topic": "Linguaggio Scala, Java, AS400 e…cose più serie",
+    "authors": [
+      "Franco Lombardo"
+    ],
+    "languages": ["ita","eng"],
+    "preview": "img/thumbs/lombardo.png",
+    "tags": [
+      "Scala",
+      "Fantom",
+      "Agile",
+      "AS400",
+      "Erlang",
+      "Java",
+      "Extreme programming"
+    ],
+    "url": "http://www.francolombardo.net",
+    "twitter": "https://twitter.com/f_lombardo"
   }
 ]
