@@ -472,5 +472,22 @@
       "JSON"
     ],
     "url": "http://www.davismol.net/"
+  },
+   {
+    "version": 1,
+    "title": "Refacturing",
+    "topic": "Il nome del blog è ottenuto dalla parola refactoring,  dove cambiando una vocale posso rendere omaggio a chi, a ragione,  può essere considerato uno dei ‘padri’ dell’Informatica : Alan Turing.",
+    "authors": [
+      "Riccardo Mancinelli"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/refacturing.png",
+    "tags": [
+      "Java",
+      "Javascript",
+      "HTML5",
+      "Bootstrap"
+    ],
+    "url": "http://www.refacturing.it/blog/"
   }
 ]
