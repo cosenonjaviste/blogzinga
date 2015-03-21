@@ -530,6 +530,26 @@
     "url": "http://danielasfregola.com/",
     "twitter": "https://twitter.com/DanielaSfregola",
     "linkedin": "https://www.linkedin.com/in/danielasfregola"
+  },
+   {
+    "version": 1,
+    "title": "Alfredo Nelson Cosco",
+    "topic": "a log about html5, css3, jquery, php and other web stuff by Alfredo Nelson Cosco",
+    "authors": [
+      "Alfredo `Nelson` Cosco"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/nelson.png",
+    "tags": [
+      "css",
+      "jquery",
+      "bootstrap"
+    ],
+    "url": "http://nelsondev.blogspot.it/",
+    "twitter": "https://twitter.com/orazio_nelson",
+    "facebook": "https://www.facebook.com/alfredo.nelson.cosco"
   }
+
+  
   
 ]
