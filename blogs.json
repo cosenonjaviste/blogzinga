@@ -1,5 +1,5 @@
 [
-    {
+   {
     "version": 3,
     "title": "Luongo Vincenzo - Blog",
     "topic": "Hacking, Android, Programmazione, Sicurezza, Linux e Open Source",
@@ -548,8 +548,27 @@
     "url": "http://nelsondev.blogspot.it/",
     "twitter": "https://twitter.com/orazio_nelson",
     "facebook": "https://www.facebook.com/alfredo.nelson.cosco"
+  },
+  {
+    "version": 1,
+    "title": "JavaStaff.com | Have a good Java night",
+    "topic": "Articoli e notizie sul mondo Java",
+    "authors": [
+      "Federico Paparoni",
+      "Luca Mattei"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/javastaff.png",
+    "tags": [
+      "programmazione",
+      "java",
+      "articoli",
+      "news",
+    ],
+    "github": "https://github.com/JavaStaff",
+    "twitter": "https://twitter.com/javastaff",
+    "url": "http://www.javastaff.com",
+    "facebook": "https://www.facebook.com/javastaff"
   }
-
-  
   
 ]
