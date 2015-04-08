@@ -569,6 +569,28 @@
     "twitter": "https://twitter.com/javastaff",
     "url": "http://www.javastaff.com",
     "facebook": "https://www.facebook.com/javastaff"
+  },
+  {
+    "version": 1,
+    "title": "Michele Nasti",
+    "topic": "idee, pensieri e tutorial su backend e frontend",
+    "authors": [
+      "Michele Nasti"
+    ],
+    "languages": ["ita" , "eng"],
+    "preview": "img/thumbs/michelenasti.PNG",
+    "tags": [
+      "java",
+      "web",
+      "agile",
+      "methodologies",
+      "ruby",
+      "AngularJs"
+    ],
+    "facebook": "https://www.facebook.com/musikele",
+    "github": "https://github.com/musikele",
+    "twitter": "https://twitter.com/micnasti",
+    "url": "http://michelenasti.com"
   }
   
 ]
