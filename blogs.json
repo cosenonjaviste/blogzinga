@@ -569,6 +569,23 @@
     "twitter": "https://twitter.com/javastaff",
     "url": "http://www.javastaff.com",
     "facebook": "https://www.facebook.com/javastaff"
+  },
+   {
+    "version": 1,
+    "title": "Roberto Congiu's blog",
+    "topic": "",
+    "authors": [
+      "Roberto Congiu"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/congiu.png",
+    "tags": [
+      "Hive",
+      "Hadoop",
+      "Spark"
+    ],
+    "twitter": "https://twitter.com/robertocongiu",
+    "url": "http://www.congiu.com"
   }
   
 ]
