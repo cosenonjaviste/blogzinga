@@ -608,6 +608,24 @@
     "github": "https://github.com/musikele",
     "twitter": "https://twitter.com/micnasti",
     "url": "http://michelenasti.com"
+  },
+  {
+    "version": 1,
+    "title": "slashcode",
+    "topic": "",
+    "authors": [
+      "Davide Aversa"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/davideaversa.PNG",
+    "tags": [
+      "Game Development",
+      "Machine Learning",
+      "AI"
+    ],
+    "facebook": "https://www.facebook.com/davide.aversa",
+    "github": "https://github.com/THeK3nger",
+    "twitter": "https://twitter.com/THeK3nger",
+    "url": "http://davideaversa.it/slashcode/"
   }
-  
 ]
