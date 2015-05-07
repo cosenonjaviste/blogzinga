@@ -643,5 +643,23 @@
     ],
     "facebook": "https://www.facebook.com/morethanphotos.it",
     "url": "http://www.marcodibiase.it/"
+  },
+  {
+    "version": 1,
+    "title": "Fabio Marasco",
+    "topic": "  appassionato di musica indie-elettronica e delle nuove tecnologie web",
+    "authors": [
+      "Fabio Marasco"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/fabiomarasco.png",
+    "tags": [
+      "AngularJs",
+      "web"
+    ],
+    "linkedin": "https://github.com/marbio",
+    "github": "https://github.com/marbio",
+    "twitter": "https://twitter.com/marbio",
+    "url": "http://www.fabiomarasco.it/"
   }
 ]
