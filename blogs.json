@@ -711,5 +711,22 @@
     "github": "https://github.com/TechIsFun",
     "twitter": "https://twitter.com/TechIsFun",
     "url": "http://www.andreamaglie.com/blog/index.html"
+  },
+  {
+    "version": 1,
+    "title": "a Software Craftsman's diary",
+    "topic": "notes and thoughts, on the way from Journeyman to Master",
+    "authors": [
+      "Emanuele Blanco"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/emanueleblanco.png",
+    "tags": [
+      "Programming",
+      "Agile"
+    ],
+    "linkedin": "http://uk.linkedin.com/in/emanueleblanco",
+    "twitter": "https://twitter.com/manub",
+    "url": "http://blog.manub.net/"
   }
 ]
