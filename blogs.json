@@ -647,7 +647,7 @@
   {
     "version": 1,
     "title": "Fabio Marasco",
-    "topic": "  appassionato di musica indie-elettronica e delle nuove tecnologie web",
+    "topic": "appassionato di musica indie-elettronica e delle nuove tecnologie web",
     "authors": [
       "Fabio Marasco"
     ],
@@ -661,5 +661,21 @@
     "github": "https://github.com/marbio",
     "twitter": "https://twitter.com/marbio",
     "url": "http://www.fabiomarasco.it/"
+  },
+  {
+    "version": 1,
+    "title": "David Greco",
+    "topic": "About programming, technology, politics and any other crazy idea I want to share with the world",
+    "authors": [
+      "David Greco"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/davidgreco.png",
+    "tags": [
+      "Spark",
+      "Akka",
+      "Scala"
+    ],
+    "url": "http://www.davidgreco.me/"
   }
 ]
