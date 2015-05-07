@@ -695,5 +695,21 @@
     "github": "https://github.com/nicolaiarocci",
     "twitter": "https://twitter.com/nicolaiarocci",
     "url": "http://nicolaiarocci.com/"
+  },
+  {
+    "version": 1,
+    "title": "Andrea Maglie",
+    "topic": "Tech Is Fun",
+    "authors": [
+      "Andrea Maglie"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/andreamaglie.png",
+    "tags": [
+      "Android"
+    ],
+    "github": "https://github.com/TechIsFun",
+    "twitter": "https://twitter.com/TechIsFun",
+    "url": "http://www.andreamaglie.com/blog/index.html"
   }
 ]
