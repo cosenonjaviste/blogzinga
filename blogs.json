@@ -627,5 +627,21 @@
     "github": "https://github.com/THeK3nger",
     "twitter": "https://twitter.com/THeK3nger",
     "url": "http://davideaversa.it/slashcode/"
+  },
+  {
+    "version": 1,
+    "title": "Marco di Biase",
+    "topic": "scrummaster & web designer",
+    "authors": [
+      "Marco di Biase"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/marcodibiase.PNG",
+    "tags": [
+        "Agile",
+        "Web"
+    ],
+    "facebook": "https://www.facebook.com/morethanphotos.it",
+    "url": "http://www.marcodibiase.it/"
   }
 ]
