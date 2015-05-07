@@ -677,5 +677,56 @@
       "Scala"
     ],
     "url": "http://www.davidgreco.me/"
+  },
+  {
+    "version": 1,
+    "title": "Nicola Iarocci",
+    "topic": "Coder at Heart",
+    "authors": [
+      "Nicola Iarocci"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/nicolaiarocci.png",
+    "tags": [
+      "MongoDB",
+      "Python"
+    ],
+    "linkedin": "http://www.linkedin.com/in/nicolaiarocci",
+    "github": "https://github.com/nicolaiarocci",
+    "twitter": "https://twitter.com/nicolaiarocci",
+    "url": "http://nicolaiarocci.com/"
+  },
+  {
+    "version": 1,
+    "title": "Andrea Maglie",
+    "topic": "Tech Is Fun",
+    "authors": [
+      "Andrea Maglie"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/andreamaglie.png",
+    "tags": [
+      "Android"
+    ],
+    "github": "https://github.com/TechIsFun",
+    "twitter": "https://twitter.com/TechIsFun",
+    "url": "http://www.andreamaglie.com/blog/index.html"
+  },
+  {
+    "version": 1,
+    "title": "a Software Craftsman's diary",
+    "topic": "notes and thoughts, on the way from Journeyman to Master",
+    "authors": [
+      "Emanuele Blanco"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/emanueleblanco.png",
+    "tags": [
+      "Programming",
+      "Agile"
+    ],
+    "linkedin": "http://uk.linkedin.com/in/emanueleblanco",
+    "twitter": "https://twitter.com/manub",
+    "url": "http://blog.manub.net/"
   }
 ]
