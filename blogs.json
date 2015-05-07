@@ -677,5 +677,23 @@
       "Scala"
     ],
     "url": "http://www.davidgreco.me/"
+  },
+  {
+    "version": 1,
+    "title": "Nicola Iarocci",
+    "topic": "Coder at Heart",
+    "authors": [
+      "Nicola Iarocci"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/nicolaiarocci.png",
+    "tags": [
+      "MongoDB",
+      "Python"
+    ],
+    "linkedin": "http://www.linkedin.com/in/nicolaiarocci",
+    "github": "https://github.com/nicolaiarocci",
+    "twitter": "https://twitter.com/nicolaiarocci",
+    "url": "http://nicolaiarocci.com/"
   }
 ]
