@@ -636,13 +636,14 @@
       "Marco di Biase"
     ],
     "languages": ["ita"],
-    "preview": "img/thumbs/marcodibiase.PNG",
+    "preview": "img/thumbs/marcodibiase.png",
     "tags": [
         "Agile",
         "Web"
     ],
     "facebook": "https://www.facebook.com/morethanphotos.it",
-    "url": "http://www.marcodibiase.it/"
+    "url": "http://www.marcodibiase.it/",
+    "twitter": "http://twitter.com/marcodibi"
   },
   {
     "version": 1,
@@ -676,7 +677,8 @@
       "Akka",
       "Scala"
     ],
-    "url": "http://www.davidgreco.me/"
+    "url": "http://www.davidgreco.me/",
+    "twitter": "https//twitter.com/davidgreco"
   },
   {
     "version": 1,
