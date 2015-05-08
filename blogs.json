@@ -728,5 +728,31 @@
     "linkedin": "http://uk.linkedin.com/in/emanueleblanco",
     "twitter": "https://twitter.com/manub",
     "url": "http://blog.manub.net/"
-  }
+  },
+  {
+   "version": 1,
+   "title": "Blog di Simone Ciamberlini",
+   "topic": "Gestione di infrastrutture, architetture software, ALM, DBMS, .NET, Linux: tutto quello riguarda l'informatica è il mio mondo.",
+   "authors": [
+     "Simone Ciamberlini"
+   ],
+   "languages": ["ita"],
+   "preview": "img/thumbs/simoneciamberlini.png",
+   "tags": [
+     "sysAdmin",
+     "devOps",
+     "linux",
+     "windows",
+     "network",
+     "csharp",
+     "php"
+     "smtp"
+     "dns"
+   ],
+   "facebook": "http://on.fb.me/1F9arIX",
+   "github": "https://github.com/ciamberlini",
+   "twitter": "https://twitter.com/ciamberlini",
+   "linkedin": "http://linkd.in/1cdRE1O",
+   "url": "http://www.ciamberlini.it"
+ }
 ]
