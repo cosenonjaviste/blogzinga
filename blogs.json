@@ -754,5 +754,24 @@
    "twitter": "https://twitter.com/ciamberlini",
    "linkedin": "http://linkd.in/1cdRE1O",
    "url": "http://www.ciamberlini.it"
- }
+ },
+ {
+    "version": 1,
+    "title": "Zuppadiseo",
+    "topic": "Web designer e SEO con un debole per Wordpress",
+    "authors": [
+      "Cristian Brunori"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/zuppadiseo.png",
+    "tags": [
+      "seo",
+      "web design",
+      "wordpress"
+    ],
+    "facebook": "https://www.facebook.com/brunori.cristian",
+    "linkedin": "https://it.linkedin.com/pub/cristian-brunori/85/4a8/267",
+    "twitter": "https://twitter.com/CristianBrunori",
+    "url": "http://www.zuppadiseo.it/"
+  }
 ]
