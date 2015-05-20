@@ -1,5 +1,43 @@
 [
    {
+    "version": 1,
+    "title": "unnikked.tk | esperienze personali in campo informatico",
+    "topic": "Esperimenti, guide e consigli derivanti dall'immersione quotidiana in ambito informatico",
+    "authors": [
+      "Nicola Malizia"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/unnikked.tk.png",
+    "tags": [
+      "programmazione",
+      "sysAdmin",
+      "linux",
+      "selfhosted",
+      "opensource"
+    ],
+    "twitter": "http://www.twitter.com/unnikked",
+    "github": "https://github.com/unnikked",
+    "facebook": "https://www.facebook.com/unnikked",
+    "url": "https://unnikked.tk"
+   },
+   {
+    "version": 1,
+    "title": "unnikked.ga | a computer engineering blog",
+    "topic": "Personal notes on programming and computer science topics that I like most",
+    "authors": [
+      "Nicola Malizia"
+    ],
+    "languages": ["en"],
+    "preview": "img/thumbs/unnikked.ga.png",
+    "tags": [
+      "programming",
+      "computer science"
+    ],
+    "twitter": "http://www.twitter.com/unnikked",
+    "github": "https://github.com/unnikked",
+    "url": "https://unnikked.ga"
+   },
+   {
     "version": 3,
     "title": "Luongo Vincenzo - Blog",
     "topic": "Hacking, Android, Programmazione, Sicurezza, Linux e Open Source",
