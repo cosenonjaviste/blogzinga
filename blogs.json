@@ -1,4 +1,4 @@
-[
+﻿[
    {
     "version": 1,
     "title": "unnikked.tk | esperienze personali in campo informatico",
@@ -813,5 +813,23 @@
     "linkedin": "https://it.linkedin.com/pub/cristian-brunori/85/4a8/267",
     "twitter": "https://twitter.com/CristianBrunori",
     "url": "http://www.zuppadiseo.it/"
+  },
+  {
+    "version": 1,
+    "title": "Fantelesto",
+    "topic": "Ho scoperto Android per gioco, ora quel gioco è la mia passione!",
+    "authors": [
+      "Marco Perugini"
+    ],
+    "languages": ["ita"],
+    "preview": "img/thumbs/fantelesto.jpg",
+    "tags": [
+      "Android",
+      "Android Wear"
+    ],
+    "facebook": "https://www.facebook.com/marco.perugini1",
+    "linkedin": "https://it.linkedin.com/pub/marco-perugini/a1/602/980",
+    "twitter": "https://twitter.com/perugini92",
+    "url": "http://www.fantelesto.it/"
   }
 ]
