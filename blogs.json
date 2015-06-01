@@ -1,6 +1,136 @@
 [
   {
     "version":1,
+    "title":"unnikked.tk | esperienze personali in campo informatico",
+    "topic":"Esperimenti, guide e consigli derivanti dall'immersione quotidiana in ambito informatico",
+    "authors":[
+      "Nicola Malizia"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/unnikked.tk.png",
+    "tags":[
+      "programmazione",
+      "sysAdmin",
+      "linux",
+      "selfhosted",
+      "opensource"
+    ],
+    "twitter":"http://www.twitter.com/unnikked",
+    "github":"https://github.com/unnikked",
+    "facebook":"https://www.facebook.com/unnikked",
+    "url":"https://unnikked.tk"
+  },
+  {
+    "version":1,
+    "title":"unnikked.ga | a computer engineering blog",
+    "topic":"Personal notes on programming and computer science topics that I like most",
+    "authors":[
+      "Nicola Malizia"
+    ],
+    "languages":[
+      "en"
+    ],
+    "preview":"img/thumbs/unnikked.ga.png",
+    "tags":[
+      "programming",
+      "computer science"
+    ],
+    "twitter":"http://www.twitter.com/unnikked",
+    "github":"https://github.com/unnikked",
+    "url":"https://unnikked.ga"
+  },
+  {
+    "version":1,
+    "title":"Luongo Vincenzo - Blog",
+    "topic":"Hacking, Android, Programmazione, Sicurezza, Linux e Open Source",
+    "authors":[
+      "Luongo Vincenzo"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/luongovincenzo.png",
+    "tags":[
+      "programmazione",
+      "sicurezza",
+      "hacking",
+      "android",
+      "linux",
+      "opensource"
+    ],
+    "github":"https://github.com/KinG-InFeT/",
+    "twitter":"https://twitter.com/KinG_InFeT",
+    "url":"http://www.luongovincenzo.it/blog",
+    "linkedin":"https://www.linkedin.com/in/luongovincenzo"
+  },
+  {
+    "version":1,
+    "title":"Marco Napolitano | Passionate and addicted to technology",
+    "topic":"...",
+    "authors":[
+      "Marco Napolitano"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/marconapolitano.png",
+    "tags":[
+      "programmazione",
+      "LifeRay"
+    ],
+    "twitter":"http://www.twitter.com/batnapo",
+    "url":"http://marconapolitano.it"
+  },
+  {
+    "version":1,
+    "title":"Domenico Luciani | DLion ~ Blog",
+    "topic":"Programmazione, Sicurezza, Raspberry Pi e Visione Artificiale",
+    "authors":[
+      "Domenico Luciani"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/dlion.png",
+    "tags":[
+      "programmazione",
+      "sicurezza",
+      "opencv",
+      "node"
+    ],
+    "facebook":"https://www.facebook.com/dlion.smagen",
+    "github":"https://github.com/DLion",
+    "twitter":"https://twitter.com/dlion92",
+    "url":"http://dlion.it"
+  },
+  {
+    "version":1,
+    "title":"GianArb | Personal Blog",
+    "topic":"Php, Go, Git, OpenSource, Javascript, Best Practices and other developer stuff",
+    "authors":[
+      "Gianluca Arbezzano"
+    ],
+    "languages":[
+      "en"
+    ],
+    "preview":"img/thumbs/gianarb.png",
+    "tags":[
+      "git",
+      "opensource",
+      "php",
+      "best-practices",
+      "go",
+      "angularjs"
+    ],
+    "github":"https://github.com/gianarb",
+    "twitter":"https://twitter.com/GianArb",
+    "url":"http://gianarb.it"
+  },
+  {
+    "version":1,
     "title":"CoseNonJaviste",
     "topic":"Tutorial e approfondimenti sul mondo Java e Android",
     "authors":[
@@ -24,5 +154,876 @@
     "github":"https://github.com/cosenonjaviste",
     "twitter":"https://twitter.com/cosenonjaviste",
     "url":"http://cosenonjaviste.it"
+  },
+  {
+    "version":1,
+    "title":"#{francescostrazzullo}",
+    "topic":"JavaServerFaces spiegati con competenza e precisione ",
+    "authors":[
+      "Francesco Strazzullo"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/straz.jpg",
+    "tags":[
+      "JSF",
+      "java",
+      "javascript",
+      "primefaces"
+    ],
+    "github":"https://github.com/francesco-strazzullo",
+    "twitter":"https://twitter.com/TheStrazz86",
+    "facebook":"https://www.facebook.com/francesco.strazzullo",
+    "url":"http://www.francescostrazzullo.info/"
+  },
+  {
+    "version":1,
+    "title":"Alessandro Nizzo",
+    "topic":"Liferay, BPM, Data Integration e Java",
+    "authors":[
+      "Alessandro Nizzo"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/nizzo.jpg",
+    "tags":[
+      "LifeRay",
+      "Bonita BPM",
+      "Pentaho Data Integration",
+      "java"
+    ],
+    "github":"https://github.com/anizzo",
+    "twitter":"https://twitter.com/alessandronizzo",
+    "url":"http://www.alessandronizzo.it/"
+  },
+  {
+    "version":1,
+    "title":"Antonio Musarra's Blog",
+    "topic":"Tutto quello che c'è da sapere su Liferay, SugarCRM e integrazioni qui c'è",
+    "authors":[
+      "Antonio Musarra"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/musarra.jpg",
+    "tags":[
+      "Liferay",
+      "SugarCRM",
+      "Web Services",
+      "ESB"
+    ],
+    "github":"https://github.com/amusarra/",
+    "twitter":"https://twitter.com/antonio_musarra",
+    "facebook":"https://www.facebook.com/antoniomusarrablog",
+    "url":"http://www.dontesta.it/"
+  },
+  {
+    "version":1,
+    "title":"Esperienze di programmazione in Java",
+    "topic":"Appunti personali su Maven, Spring, Hibernate, Primefaces utili a chi voglia usare queste tecnologie",
+    "authors":[
+      "Mauro Cognolato"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/cognolato.jpg",
+    "tags":[
+      "maven",
+      "java",
+      "spring",
+      "hibernate"
+    ],
+    "github":"https://github.com/cognolato",
+    "url":"http://javaliere.blogspot.it/"
+  },
+  {
+    "version":1,
+    "title":"Fabio Biondi",
+    "topic":"AngularJS, D3.js e tutto il frontend del mondo in questo blog",
+    "authors":[
+      "Fabio Biondi"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/biondi.jpg",
+    "tags":[
+      "AngularJS",
+      "D3.js",
+      "arduino",
+      "html5"
+    ],
+    "twitter":"https://twitter.com/biondifabio",
+    "url":"http://www.fabiobiondi.com/blog/"
+  },
+  {
+    "version":1,
+    "title":"MindTheGab",
+    "topic":"All about Alfresco development news",
+    "authors":[
+      "Gabriele Columbro"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/mindthegab.png",
+    "tags":[
+      "Alfresco",
+      "ECM",
+      "CMIS",
+      "Chemistry",
+      "agile"
+    ],
+    "github":"https://github.com/mindthegab",
+    "twitter":"https://twitter.com/mindthegabz",
+    "facebook":"https://www.facebook.com/mindthegabz",
+    "url":"http://mindthegab.com/"
+  },
+  {
+    "version":1,
+    "title":"Marco Bruni",
+    "topic":"Java e C#, Wordpress e Linux, questo blog è per tutti i gusti, una chicca interessante, un videocorso in 10 lezioni sulle basi di Java",
+    "authors":[
+      "Marco Bruni"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/bruni.jpg",
+    "tags":[
+      "Java",
+      "C#",
+      "linux",
+      "wordpress",
+      "PHP"
+    ],
+    "github":"https://github.com/marcobruni",
+    "facebook":"http://fb.me/marcobruni.page",
+    "url":"http://www.marcobruni.info/"
+  },
+  {
+    "version":1,
+    "title":"GigabytesBlog 2.0",
+    "topic":"Notizie aggiornate e commenti sul C++",
+    "authors":[
+      "Nicola Gigante"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/gigabytes.jpg",
+    "tags":[
+      "C++"
+    ],
+    "twitter":"https://twitter.com/gignico",
+    "facebook":"http://www.facebook.com/gignico",
+    "url":"http://www.gigabytes.it/blog/"
+  },
+  {
+    "version":1,
+    "title":"Massimo Biagioli - my Tech Blog",
+    "topic":"Un blog tecnico a 360 gradi...da Arduino a JavaScript",
+    "authors":[
+      "Massimo Biagioli"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/biagioli.jpg",
+    "tags":[
+      "arduino",
+      "nodejs",
+      "java",
+      "php"
+    ],
+    "github":"https://github.com/massimobiagioli/",
+    "twitter":"https://twitter.com/maxbiag80",
+    "facebook":"https://www.facebook.com/massimo.biagioli",
+    "url":"http://www.massimobiagioli.it/"
+  },
+  {
+    "version":1,
+    "title":"Francesco Corti - ECM and BI Specialist",
+    "topic":"Analytics for Alfresco, Pentaho Data integrator",
+    "authors":[
+      "Francesco Corti"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/fcorti.png",
+    "tags":[
+      "Alfresco",
+      "ECM",
+      "CMIS",
+      "java",
+      "Business Intelligence",
+      "Pentaho",
+      "Sparkle",
+      "Kettle"
+    ],
+    "github":"https://github.com/fcorti/",
+    "twitter":"https://twitter.com/FrkCorti",
+    "facebook":"https://www.facebook.com/francesco.corti",
+    "url":"http://fcorti.com/"
+  },
+  {
+    "version":1,
+    "title":"Emanuele Ruffaldi rti - ECM and BI Specialist",
+    "topic":"Randoms on Programming, VR, mainly C++",
+    "authors":[
+      "Emanuele Ruffaldi"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/teslacore.png",
+    "tags":[
+      "C++",
+      "Kinect",
+      "VR"
+    ],
+    "github":"https://github.com/eruffaldi/",
+    "twitter":"https://twitter.com/eruffaldi",
+    "url":"http://teslacore.blogspot.it/"
+  },
+  {
+    "version":1,
+    "title":"ONGOING DEV",
+    "topic":"Quick tips about Android Development",
+    "authors":[
+      "Gabriele Mariotti"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/gmariotti.jpg",
+    "tags":[
+      "Android",
+      "Java"
+    ],
+    "url":"http://gmariotti.blogspot.it/"
+  },
+  {
+    "version":1,
+    "title":"Surviving w/ Android",
+    "topic":"Android development blog Tutorials about Android dev topics",
+    "authors":[
+      "Francesco Azzola"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/azzola.png",
+    "tags":[
+      "Android",
+      "Java"
+    ],
+    "url":"http://www.survivingwithandroid.com/"
+  },
+  {
+    "version":1,
+    "title":"Giuseppe Sorce",
+    "topic":"Android development blog",
+    "authors":[
+      "Giuseppe Sorce"
+    ],
+    "languages":[
+      "it"
+    ],
+    "preview":"img/thumbs/sorce.png",
+    "tags":[
+      "Android",
+      "Java",
+      "Mobile",
+      "Android Studio"
+    ],
+    "url":"http://www.giuseppesorce.com/",
+    "twitter":"https://twitter.com/warpmobile_it"
+  },
+  {
+    "version":1,
+    "title":"The Darshan’s Weblog | Il blog di Vincenzo La Spesa",
+    "topic":"Programmazione, Sicurezza, Raspberry Pi e Visione Artificiale",
+    "authors":[
+      "Vincenzo La Spesa"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/darshan.png",
+    "tags":[
+      "programmazione",
+      "algoritmica",
+      "programmazione concorrente",
+      "algoritmi numerici",
+      "Ruby",
+      "C++",
+      "Java"
+    ],
+    "facebook":"https://www.facebook.com/vincenzo.laspesa",
+    "github":"https://github.com/VincenzoLaSpesa",
+    "twitter":"https://twitter.com/Darshan_tweet",
+    "url":"http://www.thedarshan.com/"
+  },
+  {
+    "version":1,
+    "title":"Il Web Di Fabio",
+    "topic":"Sito personale e blog di Fabio Bedini aka whisher",
+    "authors":[
+      "Fabio Bedini"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/ilwebdifabio.png",
+    "tags":[
+      "Angularjs",
+      "Mean",
+      "Phonegap",
+      "Ionic",
+      "Javascript",
+      "Php",
+      "Laravel"
+    ],
+    "url":"http://ilwebdifabio.it",
+    "github":"https://github.com/whisher",
+    "twitter":"https://twitter.com/ilwebdifabio"
+  },
+  {
+    "version":1,
+    "title":"Il blog di Andrea Sartori",
+    "topic":"Tutorial sulla programmazione con PHP e Laravel.",
+    "authors":[
+      "Andrea Marco Sartori"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/sartori.jpg",
+    "tags":[
+      "OOP",
+      "SOLID",
+      "PHP",
+      "Laravel"
+    ],
+    "url":"http://blog.andreasartori.me/it/",
+    "github":"https://github.com/cerbero90",
+    "twitter":"https://twitter.com/cerbero90"
+  },
+  {
+    "version":1,
+    "title":"JesusWasRasta - Ferdinando Santacroce's blog",
+    "topic":"Pictures from a developer everyday life.",
+    "authors":[
+      "Ferdinando Santacroce"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/jesuswasrasta.png",
+    "tags":[
+      "OOP",
+      "SOLID",
+      "Agile",
+      "Git",
+      "C#",
+      ".NET"
+    ],
+    "url":"http://jesuswasrasta.com",
+    "github":"https://github.com/jesuswasrasta",
+    "twitter":"https://twitter.com/jesuswasrasta",
+    "facebook":"https://www.facebook.com/ferdinando.santacroce"
+  },
+  {
+    "version":1,
+    "title":"Dede blog",
+    "topic":"Sito personale e blog di Davis Molinari che tratta di diversi linguaggi",
+    "authors":[
+      "Davis Molinari"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/dede.png",
+    "tags":[
+      "Java",
+      "Python",
+      "ObjectiveC",
+      "C",
+      "Ocaml",
+      "Hibernate",
+      "JSON"
+    ],
+    "url":"http://www.davismol.net/"
+  },
+  {
+    "version":1,
+    "title":"Refacturing",
+    "topic":"Il nome del blog è ottenuto dalla parola refactoring,  dove cambiando una vocale posso rendere omaggio a chi, a ragione,  può essere considerato uno dei ‘padri’ dell’Informatica : Alan Turing.",
+    "authors":[
+      "Riccardo Mancinelli"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/refacturing.png",
+    "tags":[
+      "Java",
+      "Javascript",
+      "HTML5",
+      "Bootstrap"
+    ],
+    "url":"http://www.refacturing.it/blog/",
+    "twitter":"https://twitter.com/ricmancio",
+    "facebook":"https://www.facebook.com/riccardo.mancinelli"
+  },
+  {
+    "version":1,
+    "title":"Franco Lombardo",
+    "topic":"Linguaggio Scala, Java, AS400 e…cose più serie",
+    "authors":[
+      "Franco Lombardo"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/lombardo.png",
+    "tags":[
+      "Scala",
+      "Fantom",
+      "Agile",
+      "AS400",
+      "Erlang",
+      "Java",
+      "Extreme programming"
+    ],
+    "url":"http://www.francolombardo.net",
+    "twitter":"https://twitter.com/f_lombardo"
+  },
+  {
+    "version":1,
+    "title":"Daniela Sfregola",
+    "topic":"Girl Coding – Learn as if you were to live forever. M. Gandhi",
+    "authors":[
+      "Daniela Sfregola"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/sfregola.png",
+    "tags":[
+      "Scala",
+      "Akka",
+      "Spray"
+    ],
+    "url":"http://danielasfregola.com/",
+    "twitter":"https://twitter.com/DanielaSfregola",
+    "linkedin":"https://www.linkedin.com/in/danielasfregola"
+  },
+  {
+    "version":1,
+    "title":"Alfredo Nelson Cosco",
+    "topic":"a log about html5, css3, jquery, php and other web stuff by Alfredo Nelson Cosco",
+    "authors":[
+      "Alfredo `Nelson` Cosco"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/nelson.png",
+    "tags":[
+      "css",
+      "jquery",
+      "bootstrap"
+    ],
+    "url":"http://nelsondev.blogspot.it/",
+    "twitter":"https://twitter.com/orazio_nelson",
+    "facebook":"https://www.facebook.com/alfredo.nelson.cosco"
+  },
+  {
+    "version":1,
+    "title":"JavaStaff.com | Have a good Java night",
+    "topic":"Articoli e notizie sul mondo Java",
+    "authors":[
+      "Federico Paparoni",
+      "Luca Mattei"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/javastaff.png",
+    "tags":[
+      "programmazione",
+      "java",
+      "articoli",
+      "news"
+    ],
+    "github":"https://github.com/JavaStaff",
+    "twitter":"https://twitter.com/javastaff",
+    "url":"http://www.javastaff.com",
+    "facebook":"https://www.facebook.com/javastaff"
+  },
+  {
+    "version":1,
+    "title":"Roberto Congiu's blog",
+    "topic":"",
+    "authors":[
+      "Roberto Congiu"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/congiu.png",
+    "tags":[
+      "Hive",
+      "Hadoop",
+      "Spark"
+    ],
+    "twitter":"https://twitter.com/robertocongiu",
+    "url":"http://www.congiu.com"
+  },
+  {
+    "version":1,
+    "title":"Michele Nasti",
+    "topic":"idee, pensieri e tutorial su backend e frontend",
+    "authors":[
+      "Michele Nasti"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/michelenasti.PNG",
+    "tags":[
+      "java",
+      "web",
+      "agile",
+      "methodologies",
+      "ruby",
+      "AngularJs"
+    ],
+    "facebook":"https://www.facebook.com/musikele",
+    "github":"https://github.com/musikele",
+    "twitter":"https://twitter.com/micnasti",
+    "url":"http://michelenasti.com"
+  },
+  {
+    "version":1,
+    "title":"slashcode",
+    "topic":"",
+    "authors":[
+      "Davide Aversa"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/davideaversa.PNG",
+    "tags":[
+      "Game Development",
+      "Machine Learning",
+      "AI"
+    ],
+    "facebook":"https://www.facebook.com/davide.aversa",
+    "github":"https://github.com/THeK3nger",
+    "twitter":"https://twitter.com/THeK3nger",
+    "url":"http://davideaversa.it/slashcode/"
+  },
+  {
+    "version":1,
+    "title":"Marco di Biase",
+    "topic":"scrummaster & web designer",
+    "authors":[
+      "Marco di Biase"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/marcodibiase.png",
+    "tags":[
+      "Agile",
+      "Web"
+    ],
+    "facebook":"https://www.facebook.com/morethanphotos.it",
+    "url":"http://www.marcodibiase.it/",
+    "twitter":"http://twitter.com/marcodibi"
+  },
+  {
+    "version":1,
+    "title":"Fabio Marasco",
+    "topic":"appassionato di musica indie-elettronica e delle nuove tecnologie web",
+    "authors":[
+      "Fabio Marasco"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/fabiomarasco.png",
+    "tags":[
+      "AngularJs",
+      "web"
+    ],
+    "linkedin":"https://github.com/marbio",
+    "github":"https://github.com/marbio",
+    "twitter":"https://twitter.com/marbio",
+    "url":"http://www.fabiomarasco.it/"
+  },
+  {
+    "version":1,
+    "title":"David Greco",
+    "topic":"About programming, technology, politics and any other crazy idea I want to share with the world",
+    "authors":[
+      "David Greco"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/davidgreco.png",
+    "tags":[
+      "Spark",
+      "Akka",
+      "Scala"
+    ],
+    "url":"http://www.davidgreco.me/",
+    "twitter":"https//twitter.com/davidgreco"
+  },
+  {
+    "version":1,
+    "title":"Nicola Iarocci",
+    "topic":"Coder at Heart",
+    "authors":[
+      "Nicola Iarocci"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/nicolaiarocci.png",
+    "tags":[
+      "MongoDB",
+      "Python"
+    ],
+    "linkedin":"http://www.linkedin.com/in/nicolaiarocci",
+    "github":"https://github.com/nicolaiarocci",
+    "twitter":"https://twitter.com/nicolaiarocci",
+    "url":"http://nicolaiarocci.com/"
+  },
+  {
+    "version":1,
+    "title":"Andrea Maglie",
+    "topic":"Tech Is Fun",
+    "authors":[
+      "Andrea Maglie"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/andreamaglie.png",
+    "tags":[
+      "Android"
+    ],
+    "github":"https://github.com/TechIsFun",
+    "twitter":"https://twitter.com/TechIsFun",
+    "url":"http://www.andreamaglie.com/blog/index.html"
+  },
+  {
+    "version":1,
+    "title":"a Software Craftsman's diary",
+    "topic":"notes and thoughts, on the way from Journeyman to Master",
+    "authors":[
+      "Emanuele Blanco"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/emanueleblanco.png",
+    "tags":[
+      "Programming",
+      "Agile"
+    ],
+    "linkedin":"http://uk.linkedin.com/in/emanueleblanco",
+    "twitter":"https://twitter.com/manub",
+    "url":"http://blog.manub.net/"
+  },
+  {
+    "version":1,
+    "title":"Blog di Simone Ciamberlini",
+    "topic":"Gestione di infrastrutture, architetture software, ALM, DBMS, .NET, Linux: tutto quello riguarda l'informatica è il mio mondo.",
+    "authors":[
+      "Simone Ciamberlini"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/simoneciamberlini.png",
+    "tags":[
+      "sysAdmin",
+      "devOps",
+      "linux",
+      "windows",
+      "network",
+      "csharp",
+      "php",
+      "smtp",
+      "dns"
+    ],
+    "facebook":"http://on.fb.me/1F9arIX",
+    "github":"https://github.com/ciamberlini",
+    "twitter":"https://twitter.com/ciamberlini",
+    "linkedin":"http://linkd.in/1cdRE1O",
+    "url":"http://www.ciamberlini.it"
+  },
+  {
+    "version":1,
+    "title":"Zuppadiseo",
+    "topic":"Web designer e SEO con un debole per Wordpress",
+    "authors":[
+      "Cristian Brunori"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/zuppadiseo.png",
+    "tags":[
+      "seo",
+      "web design",
+      "wordpress"
+    ],
+    "facebook":"https://www.facebook.com/brunori.cristian",
+    "linkedin":"https://it.linkedin.com/pub/cristian-brunori/85/4a8/267",
+    "twitter":"https://twitter.com/CristianBrunori",
+    "url":"http://www.zuppadiseo.it/"
+  },
+  {
+    "version":1,
+    "title":"Fantelesto",
+    "topic":"Ho scoperto Android per gioco, ora quel gioco è la mia passione!",
+    "authors":[
+      "Marco Perugini"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/fantelesto.jpg",
+    "tags":[
+      "Android",
+      "Android Wear"
+    ],
+    "facebook":"https://www.facebook.com/marco.perugini1",
+    "linkedin":"https://it.linkedin.com/pub/marco-perugini/a1/602/980",
+    "twitter":"https://twitter.com/perugini92",
+    "url":"http://www.fantelesto.it/"
+  },
+  {
+    "version":1,
+    "title":"Luca Ongaro",
+    "topic":"Web Engineer",
+    "authors":[
+      "Luca Ongaro"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/lucaongaro.png",
+    "tags":[
+      "javascript",
+      "scala"
+    ],
+    "github":"https://github.com/lucaong",
+    "twitter":"https://twitter.com/lucaongaro",
+    "url":"http://www.lucaongaro.eu/"
+  },
+  {
+    "version":1,
+    "title":"Lamba Land",
+    "topic":"Making sense of software development",
+    "authors":[
+      "Manuel Paccagnella"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/lambaland.png",
+    "tags":[
+      "Haskell",
+      "Clojure"
+    ],
+    "github":"https://github.com/manuelp",
+    "url":"http://manuelp.herokuapp.com/",
+    "twitter":"https://twitter.com/map_it"
+  },
+  {
+    "version":1,
+    "title":"Alessandro Lacava",
+    "topic":"on Designing and Developing Software. In love with Functional Programming.",
+    "authors":[
+      "Alessandro Lacava"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/alessandrolacava.png",
+    "tags":[
+      "Scala"
+    ],
+    "github":"https://github.com/lambdista",
+    "linkedin":"http://www.linkedin.com/profile/view?id=15824262",
+    "twitter":"https://twitter.com/lambdista",
+    "url":"http://www.alessandrolacava.com/"
+  },
+  {
+    "version":1,
+    "title":"Mastertheboss",
+    "topic":"JBoss and WildFly tutorials. Java Enterprise edition quickstart guides",
+    "authors":[
+      "Francesco Marchioni",
+      "Francesco Strazzullo"
+    ],
+    "languages":[
+      "en"
+    ],
+    "preview":"img/thumbs/mtb.png",
+    "tags":[
+      "jboss",
+      "wildfly",
+      "javaee"
+    ],
+    "linkedin":"https://www.linkedin.com/in/francescomarchioni",
+    "github":"https://github.com/fmarchioni/mastertheboss",
+    "twitter":"https://twitter.com/mastertheboss",
+    "url":"http://www.mastertheboss.com"
+  },
+  {
+    "version":1,
+    "title":"Mastertheintegration",
+    "topic":" Enterprise integration using Camel, Fuse, Fabric, ActiveMQ, Openshift",
+    "authors":[
+      "Francesco Marchioni",
+      "Marco Battaglia"
+    ],
+    "languages":[
+      "en"
+    ],
+    "preview":"img/thumbs/mti.png",
+    "tags":[
+      "camel",
+      "activemq",
+      "jboss fuse",
+      "fabric",
+      "mongodb"
+    ],
+    "linkedin":"https://www.linkedin.com/in/francescomarchioni",
+    "github":"https://github.com/fmarchioni/mastertheintegration",
+    "twitter":"https://twitter.com/mastertheboss",
+    "url":"http://www.mastertheintegration.com"
   }
 ]
