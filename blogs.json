@@ -42,7 +42,7 @@
     "url":"https://unnikked.ga"
   },
   {
-    "version":3,
+    "version":1,
     "title":"Luongo Vincenzo - Blog",
     "topic":"Hacking, Android, Programmazione, Sicurezza, Linux e Open Source",
     "authors":[
@@ -958,7 +958,8 @@
       "Clojure"
     ],
     "github":"https://github.com/manuelp",
-    "url":"http://manuelp.herokuapp.com/"
+    "url":"http://manuelp.herokuapp.com/",
+    "twitter":"https://twitter.com/map_it"
   },
   {
     "version":1,
