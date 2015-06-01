@@ -846,5 +846,22 @@
     ],
     "github": "https://github.com/manuelp",
     "url": "http://manuelp.herokuapp.com/"
+  },
+  {
+    "version": 1,
+    "title": "Alessandro Lacava",
+    "topic": "on Designing and Developing Software. In love with Functional Programming.",
+    "authors": [
+      "Alessandro Lacava"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/alessandrolacava.png",
+    "tags": [
+      "Scala"
+    ],
+    "github": "https://github.com/lambdista",
+    "linkedin": "http://www.linkedin.com/profile/view?id=15824262",
+    "twitter": "https://twitter.com/lambdista",
+    "url": "http://www.alessandrolacava.com/"
   }
 ]
