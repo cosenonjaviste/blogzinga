@@ -813,5 +813,22 @@
     "linkedin": "https://it.linkedin.com/pub/cristian-brunori/85/4a8/267",
     "twitter": "https://twitter.com/CristianBrunori",
     "url": "http://www.zuppadiseo.it/"
+  },
+  {
+    "version": 1,
+    "title": "Luca Ongaro",
+    "topic": "{Web Engineer}",
+    "authors": [
+      "Luca Ongaro"
+    ],
+    "languages": ["eng"],
+    "preview": "img/thumbs/lucaongaro.png",
+    "tags": [
+      "javascript",
+      "scala"
+    ],
+    "github": "https://github.com/lucaong",
+    "twitter": "https://twitter.com/lucaongaro",
+    "url": "http://www.lucaongaro.eu/"
   }
 ]
