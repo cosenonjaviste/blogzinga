@@ -830,5 +830,21 @@
     "github": "https://github.com/lucaong",
     "twitter": "https://twitter.com/lucaongaro",
     "url": "http://www.lucaongaro.eu/"
+  },
+  {
+    "version": 1,
+    "title": "Lamba Land",
+    "topic": "Making sense of software development",
+    "authors": [
+      "Manuel Paccagnella"
+    ],
+    "languages": ["ita","eng"],
+    "preview": "img/thumbs/lambaland.png",
+    "tags": [
+      "Haskell",
+      "Clojure"
+    ],
+    "github": "https://github.com/manuelp",
+    "url": "http://manuelp.herokuapp.com/"
   }
 ]
