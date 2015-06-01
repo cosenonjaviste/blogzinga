@@ -863,5 +863,51 @@
     "linkedin": "http://www.linkedin.com/profile/view?id=15824262",
     "twitter": "https://twitter.com/lambdista",
     "url": "http://www.alessandrolacava.com/"
+  },
+  {
+    "version": 1,
+    "title": "Mastertheboss",
+    "topic": "JBoss and WildFly tutorials. Java Enterprise edition quickstart guides",
+    "authors": [
+      "Francesco Marchioni",
+      "Francesco Strazzullo"
+    ],
+    "languages": [
+      "en"
+    ],
+    "preview": "img/thumbs/mtb.png",
+    "tags": [
+      "jboss",
+      "wildfly",
+      "javaee"
+    ],
+    "linkedin": "https://www.linkedin.com/in/francescomarchioni",
+    "github": "https://github.com/fmarchioni/mastertheboss",
+    "twitter": "https://twitter.com/mastertheboss",
+    "url": "http://www.mastertheboss.com"
+  },
+  {
+    "version": 1,
+    "title": "Mastertheintegration",
+    "topic": " Enterprise integration using Camel, Fuse, Fabric, ActiveMQ, Openshift",
+    "authors": [
+      "Francesco Marchioni",
+      "Marco Battaglia"
+    ],
+    "languages": [
+      "en"
+    ],
+    "preview": "img/thumbs/mti.png",
+    "tags": [
+      "camel",
+      "activemq",
+      "jboss fuse",
+      "fabric",
+      "mongodb"
+    ],
+    "linkedin": "https://www.linkedin.com/in/francescomarchioni",
+    "github": "https://github.com/fmarchioni/mastertheintegration",
+    "twitter": "https://twitter.com/mastertheboss",
+    "url": "http://www.mastertheintegration.com"
   }
 ]
