@@ -1025,5 +1025,29 @@
     "github":"https://github.com/fmarchioni/mastertheintegration",
     "twitter":"https://twitter.com/mastertheboss",
     "url":"http://www.mastertheintegration.com"
+  },
+  {
+    "version":1,
+    "title":"MeMpy's Blog | from Naples with love",
+    "topic":"Python, nodejs, .NET, Java and all the others. Let's write about them.",
+    "authors":[
+      "Rosario Renga"
+    ],
+    "languages":[
+      "ita",
+      "eng",
+    ],
+    "preview":"img/thumbs/mempyblog.png",
+    "tags":[
+      "development",
+      "python",
+      "nodejs",
+      ".NET",
+      "OOP",
+	  "Web"
+    ],    
+    "github":"https://github.com/MeMpy",
+    "linkedin":"https://it.linkedin.com/in/rosariorenga",
+    "url":"https://mempy.wordpress.com/"
   }
 ]
