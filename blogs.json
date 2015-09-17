@@ -1049,5 +1049,28 @@
     "github":"https://github.com/MeMpy",
     "linkedin":"https://it.linkedin.com/in/rosariorenga",
     "url":"https://mempy.wordpress.com/"
+  },
+  {
+    "version":1,
+    "title":"CodeClimber - Climbing the cliffs of web development, on .NET",
+    "topic":"ASP.NET, ASP.NET MVC, .NET, JavaScript frameworks.",
+    "authors":[
+      "Simone Chiaretta"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/mempyblog.png",
+    "tags":[
+      "development",
+      "ASP.NET MVC",
+      "JavaScript",
+      ".NET",
+      "ASP.NET",
+	  "Web"
+    ],    
+    "github":"https://github.com/simonech",
+    "linkedin":"https://be.linkedin.com/in/simonech",
+    "url":"http://codeclimber.net.nz/"
   }
 ]
