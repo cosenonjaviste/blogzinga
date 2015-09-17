@@ -1045,12 +1045,12 @@
       ".NET",
       "OOP",
 	  "Web"
-    ],    
+    ],
     "github":"https://github.com/MeMpy",
     "linkedin":"https://it.linkedin.com/in/rosariorenga",
     "url":"https://mempy.wordpress.com/"
   },
-    {
+  {
     "version":1,
     "title":"CodeClimber - Climbing the cliffs of web development, on .NET",
     "topic":"ASP.NET, ASP.NET MVC, .NET, JavaScript frameworks.",
@@ -1100,5 +1100,27 @@
     "github":"https://github.com/AGiorgetti",
     "linkedin":"https://it.linkedin.com/in/giorgettialessandro",
     "url":"http://www.primordialcode.com"
+  },
+  {
+    "version":1,
+    "title":"mgiulio",
+    "topic":"Front End Development",
+    "authors":[
+      "Giulio Mainardi"
+    ],
+    "languages":[
+      "en"
+    ],
+    "preview":"img/thumbs/mgiulio.jpg",
+    "tags":[
+      "html",
+      "css",
+      "svg",
+      "javascript"
+    ],
+    "url":"https://giuliom.wordpress.com/",
+    "github":"https://github.com/mgiulio",
+    "twitter":"https://twitter.com/mgiulio",
+    "facebook":"https://www.facebook.com/giulio.mainardi.1"
   }
 ]
