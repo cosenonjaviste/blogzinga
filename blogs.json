@@ -1050,7 +1050,7 @@
     "linkedin":"https://it.linkedin.com/in/rosariorenga",
     "url":"https://mempy.wordpress.com/"
   },
-  {
+    {
     "version":1,
     "title":"CodeClimber - Climbing the cliffs of web development, on .NET",
     "topic":"ASP.NET, ASP.NET MVC, .NET, JavaScript frameworks.",
@@ -1067,10 +1067,38 @@
       "JavaScript",
       ".NET",
       "ASP.NET",
-	  "Web"
+    "Web"
     ],    
     "github":"https://github.com/simonech",
     "linkedin":"https://be.linkedin.com/in/simonech",
     "url":"http://codeclimber.net.nz/"
+  },
+    {
+    "version":1,
+    "title":"PrimordialCode",
+    "topic":"Software Architecture, Design Patterns, OOP, CQRS, .NET, JavaScript, TypeScript, ORMs, web development and many other things...",
+    "authors":[
+      "Giorgetti Alessandro"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/agiorgetti.png",
+    "tags":[
+      "development",
+      "design",
+      "architecture",
+      "windows",
+      ".NET",
+      "OOP",
+      "Web",
+      "CQRS",
+      "JavaScript",
+      "TypeScript",
+      "ORM"
+    ],    
+    "github":"https://github.com/AGiorgetti",
+    "linkedin":"https://it.linkedin.com/in/giorgettialessandro",
+    "url":"http://www.primordialcode.com"
   }
 ]
