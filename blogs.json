@@ -1122,5 +1122,26 @@
     "github":"https://github.com/mgiulio",
     "twitter":"https://twitter.com/mgiulio",
     "facebook":"https://www.facebook.com/giulio.mainardi.1"
+  },
+  {
+    "title":"Emanuele Fantin",
+    "topic":"Appunti di programmazione in PHP e JavaScript, database, software utili e servizi web",
+    "authors":[
+      "Emanuele Fantin"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/emanuelefantin.jpg",
+    "tags":[
+      "PHP",
+      "Javascript",
+      "web",
+      "CodeIgniter"
+    ],
+    "linkedin":"https://www.linkedin.com/in/emanuelefantin",
+    "github":"https://github.com/emanuelefantin",
+    "facebook":"https://www.facebook.com/EmanueleFantin.it",
+    "url":"http://www.emanuelefantin.it/blog"
   }
 ]
