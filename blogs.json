@@ -1,6 +1,28 @@
 [
   {
     "version":1,
+    "title":"famousco.de | unofficial famous javascript lib",
+    "topic":"Esempi, link e snippets riguardanti famous: High-performance javascript library for animations & interfaces",
+    "authors":[
+      "Alessandro Annini"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"",
+    "tags":[
+      "programmazione",
+      "javascript",
+      "frontend",
+      "web"
+    ],
+    "twitter":"http://www.twitter.com/sunrising",
+    "github":"https://github.com/sun2rise",
+    "linkedin":"https://it.linkedin.com/in/alessandroannini",
+    "url":"http://famousco.de/"
+  },
+  {
+    "version":1,
     "title":"unnikked.tk | esperienze personali in campo informatico",
     "topic":"Esperimenti, guide e consigli derivanti dall'immersione quotidiana in ambito informatico",
     "authors":[
