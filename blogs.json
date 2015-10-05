@@ -979,10 +979,13 @@
     "preview":"img/thumbs/lambaland.png",
     "tags":[
       "Haskell",
-      "Clojure"
+      "Clojure",
+      "Java",
+      "design",
+      "architecture"
     ],
     "github":"https://github.com/manuelp",
-    "url":"http://manuelp.herokuapp.com/",
+    "url":"http://www.lambda-land.com/",
     "twitter":"https://twitter.com/map_it"
   },
   {
