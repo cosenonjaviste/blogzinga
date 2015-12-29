@@ -59,7 +59,5 @@ gulp.task 'default', ->
     'favicon',
     'fonts',
     'libMap',
-    'publishFiles',
-    'publishBackend',
-    'connect',
+    'publishFiles'
   ]

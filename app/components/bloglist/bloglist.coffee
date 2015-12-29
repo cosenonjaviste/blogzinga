@@ -60,7 +60,7 @@ class RandomHeader extends Directive
         classes = ['panel-primary', 'panel-success', 'panel-warning', 'panel-danger', 'panel-info']
 
         random = () ->
-          Math.floor Math.random() * (classes.length - 1);
+          Math.floor Math.random() * (classes.length - 1)
 
         $element.parent().addClass classes[random()]
         return
@@ -74,7 +74,7 @@ class RandomLabel extends Directive
         classes = ['label-primary', 'label-success', 'label-warning', 'label-danger', 'label-info']
 
         random = () ->
-          Math.floor Math.random() * (classes.length - 1);
+          Math.floor Math.random() * (classes.length - 1)
 
         $element.addClass classes[random()]
     }

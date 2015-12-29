@@ -111,14 +111,14 @@ gulp.task 'fonts',  ->
     .pipe gulp.dest base.destDir + 'fonts'
 
 gulp.task 'connect', ->
-  backend.set "port", process.env.PORT or 8001
-  server = backend.listen(backend.get("port"), ->
+  backend.initialize()
+  backend.start ->
     # debug "Express server listening on port " + server.address().port
     connect.server
       root: ['dist']
       port: 8000
       livereload: true
-  )
+
 
 gulp.task 'watch', ->
   # reload connect server on built file change

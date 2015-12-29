@@ -9,36 +9,40 @@ Find your favorite blogs here!
 * Add your favorite blogs to [blogs.json](https://github.com/cosenonjaviste/blogzinga/blob/master/blogs.json)
 * Aks for a Pull Request, we will merge ASAP
 
-### How to build ###
+### How to resolve dependencies ###
 * install [node.js](http://nodejs.org/)
 * in *root* folder
 ```
 npm install && bower install
 ```
-* in *backend* folder
-```
-npm install
-```
-### How to lauch ###
+
+### How to build and launch dev-mode ###
 * in *root* folder
 ```
 gulp
 ```
+    Check your browser at
+    http://localhost:8000/
+    
+    Gulp-Connect will start a live reload enabled server
+
 If gulp is not installed on your computer, you should install it using the command:
 ```
 npm install -g gulp
 ```
 
-If the execution of the command gulp generates errors, this may be due to the lack of some dependencies that should be installed via npm:
+### How to launch in production-mode ###
+* in *root* folder
 ```
-npm install static-favicon
-npm install morgan
-npm install cookie-parser
-npm install body-parser
+gulp --gulpfile gulpfile_publish.coffee
 ```
 
-Check your browser at
-  http://localhost:8000/
+    to build and compress resources
+
+* to start the backend
+```
+./backend/start.js
+```
 
 ### Notes to proxy network
 In the case where your computer is connected to a network with a proxy server, then you should set npm, bower and git to use the proxy server. The way to configure nmp is the following:
