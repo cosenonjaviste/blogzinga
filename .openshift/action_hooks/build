@@ -3,4 +3,4 @@ cd ${OPENSHIFT_HOMEDIR}/app-root/runtime/repo
 npm install
 bower install
 
-./node-modules/gulp/bin/gulp --gulpfile gulpfile_publish.coffee
+gulp --gulpfile gulpfile_publish.coffee

@@ -21,10 +21,9 @@ npm install && bower install
 ```
 gulp
 ```
-    Check your browser at
-    http://localhost:8000/
+Check your browser at *http://localhost:8000/*
     
-    Gulp-Connect will start a live reload enabled server
+Gulp-Connect will start a live reload enabled server
 
 If gulp is not installed on your computer, you should install it using the command:
 ```
@@ -37,7 +36,7 @@ npm install -g gulp
 gulp --gulpfile gulpfile_publish.coffee
 ```
 
-    to build and compress resources
+to build and compress resources
 
 * to start the backend
 ```

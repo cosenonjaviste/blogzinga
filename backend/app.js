@@ -1,5 +1,6 @@
 var express = require('express');
 var fs = require('fs');
+var rss = require('./rss');
 
 /**
  *  Define the sample application.
@@ -70,6 +71,14 @@ var BlogZinga = function() {
      */
     self.createRoutes = function() {
         self.app.use(express.static(__dirname + '/../dist'));
+
+        self.app.get('/feed/rss', function(req, res, next) {
+            rss.getFeed()
+                .then(function (feed) {
+                    res.set('Content-Type', 'application/xml; charset=utf-8');
+                    res.send(feed.xml({indent: true}));
+                });
+        });
 
         // catch 404 and forward to error handler
         self.app.use(function(req, res, next) {
