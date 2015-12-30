@@ -1170,5 +1170,34 @@
     "github":"https://github.com/emanuelefantin",
     "facebook":"https://www.facebook.com/EmanueleFantin.it",
     "url":"http://www.emanuelefantin.it/blog"
+  },
+  {
+    "title":"Marco Albarelli",
+    "topic":"A technical blog from a seasoned dev/sysadmin/younameit",
+    "authors":[
+      "Marco Albarelli"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/marcoalbarelli.png",
+    "tags":[
+      "PHP",
+      "golang",
+      "big data",
+      "nodejs",
+      "Javascript",
+      "web",
+      "Symfony2",
+      "Android",
+      "TDD",
+      "system administration",
+      "linux",
+      "bash"
+    ],
+    "linkedin":"https://www.linkedin.com/in/marcoalbarelli",
+    "github":"https://github.com/marcoalbarelli",
+    "url":"http://www.marcoalbarelli.eu"
   }
 ]
