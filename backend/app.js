@@ -70,6 +70,8 @@ var BlogZinga = function() {
      *  Create the routing table entries + handlers for the application.
      */
     self.createRoutes = function() {
+        self.app.use(require('prerender-node').set('prerenderToken', 'QRHrbiqd8I2yPystCZtr'));
+
         self.app.use(express.static(__dirname + '/../dist'));
 
         self.app.get('/feed/rss', function(req, res, next) {
@@ -79,8 +81,6 @@ var BlogZinga = function() {
                     res.send(feed.xml({indent: true}));
                 });
         });
-
-        self.app.use(require('prerender-node').set('prerenderToken', 'QRHrbiqd8I2yPystCZtr'));
 
         // catch 404 and forward to error handler
         self.app.use(function(req, res, next) {
