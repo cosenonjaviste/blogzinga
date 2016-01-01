@@ -80,6 +80,8 @@ var BlogZinga = function() {
                 });
         });
 
+        self.app.use(require('prerender-node').set('prerenderToken', 'QRHrbiqd8I2yPystCZtr'));
+
         // catch 404 and forward to error handler
         self.app.use(function(req, res, next) {
             var err = new Error('Not Found');
