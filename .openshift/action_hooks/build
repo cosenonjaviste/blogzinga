@@ -4,5 +4,3 @@ npm install
 bower install
 
 gulp --gulpfile gulpfile_publish.coffee
-
-./node_modules/prerender/server.js &

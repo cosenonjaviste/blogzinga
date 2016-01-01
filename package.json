@@ -54,7 +54,6 @@
     "express": "^4.13.3",
     "jade": "^1.11.0",
     "morgan": "^1.6.1",
-    "prerender": "^3.22.1",
     "prerender-node": "^2.2.0",
     "q": "^1.4.1",
     "request-promise": "^1.0.2",
