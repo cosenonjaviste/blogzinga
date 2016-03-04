@@ -1200,4 +1200,28 @@
     "github":"https://github.com/marcoalbarelli",
     "url":"http://www.marcoalbarelli.eu"
   }
+   {
+    "title":"Java Programming",
+    "topic":"Un blog per aiutarti a creare progetti Java sui framework più diffusi",
+    "authors":[
+      "Ezio Tomassetti"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/jpinup.png",
+    "tags":[
+      "Java",
+      "Spring",
+      "Hibernate",
+      "JBPM",
+      "Struts",
+      "WS",
+      "Liferay"
+    ],
+    "linkedin":"https://it.linkedin.com/in/ezio-tomassetti-6a774653",
+    "facebook":"https://www.facebook.com/JPinup-558808277601668/",
+    "twitter":"https://twitter.com/jtechpinup",
+    "url":"http://www.jpinup.com"
+  }
 ]
