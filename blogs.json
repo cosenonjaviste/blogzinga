@@ -180,7 +180,7 @@
   {
     "version":1,
     "title":"#{francescostrazzullo}",
-    "topic":"JavaServerFaces spiegati con competenza e precisione ",
+    "topic":"Pensieri sciolti di un ex-javista passato al frontend",
     "authors":[
       "Francesco Strazzullo"
     ],
@@ -192,6 +192,8 @@
       "JSF",
       "java",
       "javascript",
+      "angularjs",
+      "react",
       "primefaces"
     ],
     "github":"https://github.com/francesco-strazzullo",
@@ -1095,7 +1097,7 @@
       ".NET",
       "ASP.NET",
     "Web"
-    ],    
+    ],
     "github":"https://github.com/simonech",
     "linkedin":"https://be.linkedin.com/in/simonech",
     "url":"http://codeclimber.net.nz/"
@@ -1123,7 +1125,7 @@
       "JavaScript",
       "TypeScript",
       "ORM"
-    ],    
+    ],
     "github":"https://github.com/AGiorgetti",
     "linkedin":"https://it.linkedin.com/in/giorgettialessandro",
     "url":"http://www.primordialcode.com"
