@@ -1225,5 +1225,46 @@
     "facebook":"https://www.facebook.com/JPinup-558808277601668/",
     "twitter":"https://twitter.com/jtechpinup",
     "url":"http://www.jpinup.com"
+  },
+  {
+    "title":"Matteo Magni",
+    "topic":"Just Another Geek!",
+    "authors":[
+      "Matteo Magni"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/magni.png",
+    "tags":[
+      "PHP",
+      "Javascript",
+      "Linux"
+    ],
+    "linkedin":"http://linkedin.com/in/matteomagni",
+    "github":"https://github.com/ilbonzo",
+    "twitter":"https://twitter.com/ilbonzo",
+    "url":"http://magni.me"
+  },
+  {
+    "title":"Paolo Casarini",
+    "topic":"happy programming",
+    "authors":[
+      "Paolo Casarini"
+    ],
+    "languages":[
+      "ita",
+      "eng"
+    ],
+    "preview":"img/thumbs/casarini.png",
+    "tags":[
+      "PHP",
+      "Javascript",
+      "Android",
+      "Raspberry"
+    ],
+    "github":"https://github.com/paolocasarini",
+    "twitter":"https://twitter.com/paolocasarini",
+    "url":"http://casarini.org"
   }
 ]
