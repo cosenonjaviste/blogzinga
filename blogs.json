@@ -1266,5 +1266,28 @@
     "github":"https://github.com/paolocasarini",
     "twitter":"https://twitter.com/paolocasarini",
     "url":"http://casarini.org"
+  },
+  {
+    "title":"Jacopo Rabolini",
+    "topic":"Appunti sparsi su grafica, web design e front-end.",
+    "authors":[
+      "Jacopo Rabolini"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/jacoporabolini.png",
+    "tags":[
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "Sass",
+      "Web Design",
+      "Jekyll"
+    ],
+    "google+":"https://plus.google.com/+jacoporabolini",
+    "github":"https://github.com/KingFelix",
+    "linkedin":"https://www.linkedin.com/in/jacopo-rabolini-a8824426",
+    "url":"http://www.jacoporabolini.com"
   }
 ]
