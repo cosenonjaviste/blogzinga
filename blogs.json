@@ -1289,5 +1289,26 @@
     "github":"https://github.com/KingFelix",
     "linkedin":"https://www.linkedin.com/in/jacopo-rabolini-a8824426",
     "url":"http://www.jacoporabolini.com"
-  }
+  },
+  {
+    "title":"Dev'n'Code",
+    "topic":"Sviluppo web, orientato in particolare al backend.",
+    "authors":[
+      "Marco Cotrufo"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"",
+    "tags":[
+      "PHP",
+      "JavaScript",
+      "NodeJS",
+      "ReactJS",
+      "Docker"
+    ],
+    "github":"https://github.com/marcocot",
+    "linkedin":"https://www.linkedin.com/in/marcocotrufo",
+    "url":"http://www.devncode.it"
+  }	
 ]
