@@ -1289,5 +1289,33 @@
     "github":"https://github.com/KingFelix",
     "linkedin":"https://www.linkedin.com/in/jacopo-rabolini-a8824426",
     "url":"http://www.jacoporabolini.com"
+  },
+  {
+    "title":"Andrea Angella",
+    "topic":"Productivity, Teamwork, Craftsmanship, C#, .NET",
+    "authors":[
+      "Andrea Angella"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/andreaangella.png",
+    "tags":[
+	  "Software Development",
+      "C#",
+      ".NET",
+      "Teamwork",
+      "Books",
+      "Algorithms",
+	  "Craftsmanship",
+      "Visual Studio",
+	  "Leadership",
+	  "Craftsmanship"
+    ],
+    "github":"https://github.com/angellaa",
+    "linkedin":"https://www.linkedin.com/in/andreaangella/",
+    "url":"http://www.andreaangella.com/",
+    "facebook":"https://www.facebook.com/angella.andrea",
+    "twitter":"https://twitter.com/angella_andrea"
   }
 ]
