@@ -1300,17 +1300,15 @@
       "eng"
     ],
     "preview":"img/thumbs/andreaangella.png",
-    "tags":[
-	  "Software Development",
-      "C#",
-      ".NET",
-      "Teamwork",
-      "Books",
-      "Algorithms",
-	  "Craftsmanship",
-      "Visual Studio",
-	  "Leadership",
-	  "Craftsmanship"
+    "tags":["Software Development",
+	    "C#",
+	    ".NET",
+	    "Teamwork",
+	    "Books",
+	    "Algorithms",
+	    "Craftsmanship",
+	    "Visual Studio",
+	    "Leadership"
     ],
     "github":"https://github.com/angellaa",
     "linkedin":"https://www.linkedin.com/in/andreaangella/",
