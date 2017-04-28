@@ -1,6 +1,36 @@
 [
   {
     "version":1,
+    "title":"SkillsAndMore, la scuola digitale per gli sviluppatori del domani",
+    "topic":"SkillsAndMore è il luogo ideale per mantenersi aggiornati sulle ultime tecniche dello sviluppo web e per confrontarsi con persone che fanno il tuo stesso lavoro.",
+    "authors":[
+      "Andrea Barghigiani",
+      "Eugenio Petullà",
+      "Daniele Scasciafratte"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/skillsandmore.png",
+    "tags":[
+      "javascript",
+      "frontend",
+      "backend",
+      "web",
+      "php",
+      "wordpress",
+      "html",
+      "css",
+      "sass"
+    ],
+    "twitter":"https://twitter.com/skillandmore",
+    "github":"https://github.com/orgs/skillsAndMore/",
+    "linkedin":"https://www.linkedin.com/company/10326015/",
+    "facebook":"http://facebook.com/skillsandmore/",
+    "url":"https://skillsandmore.org/"
+  },
+  {
+    "version":1,
     "title":"famousco.de | unofficial famous javascript lib",
     "topic":"Esempi, link e snippets riguardanti famous: High-performance javascript library for animations & interfaces",
     "authors":[
