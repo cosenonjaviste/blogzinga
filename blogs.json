@@ -1,6 +1,28 @@
 [
   {
     "version":1,
+    "title":"Spring Corner",
+    "topic":"Guide, tutorial e notizie dal mondo Spring Framework, Java e non solo",
+    "authors":[
+      "David Castelletti"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/springcorner.png",
+    "tags":[
+      "programmazione",
+      "java",
+      "web",
+      "spring"
+    ],
+    "facebook":"https://www.facebook.com/pg/SpringCornerBlog",
+    "twitter":"https://twitter.com/springcornerblg",
+    "github":"https://github.com/davioooh",
+    "url":"https://spring-corner.com/"
+  },
+  {
+    "version":1,
     "title":"famousco.de | unofficial famous javascript lib",
     "topic":"Esempi, link e snippets riguardanti famous: High-performance javascript library for animations & interfaces",
     "authors":[
