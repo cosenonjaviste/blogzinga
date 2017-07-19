@@ -1315,5 +1315,40 @@
     "url":"http://www.andreaangella.com/",
     "facebook":"https://www.facebook.com/angella.andrea",
     "twitter":"https://twitter.com/angella_andrea"
+  },
+  {
+    "title":"Federico Tomassetti on Language Engineering",
+    "topic":"Language Engineering, DSLs, Parsers, Editors, Compilers, Interpreters",
+    "authors":[
+      "Federico Tomassetti",
+      "Gabriele Tomassetti"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/tomassetti.png",
+    "tags":["Software Development",
+      "Software Engineering",
+      "Language Engineering",
+    ],
+    "github":"https://github.com/ftomassetti",
+    "linkedin":"https://www.linkedin.com/in/federicotomassetti/",
+    "url":"https://tomassetti.me",
+    "facebook":"https://www.facebook.com/tomassetticonsultant",
+    "twitter":"https://twitter.com/ftomasse"
+  },
+  {
+    "title":"SuperKotlin",
+    "topic":"Everything about Kotlin: tutorials, courses, interviews, reviews",
+    "authors":[
+      "Federico Tomassetti",
+      "Gabriele Tomassetti"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "preview":"img/thumbs/superkotlin.png",
+    "tags":["Kotlin"],
+    "url":"https://superkotlin.com"
   }
 ]
