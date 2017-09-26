@@ -1,6 +1,0 @@
-export HOME=${HOME}/app-root/data/
-cd ${OPENSHIFT_HOMEDIR}/app-root/runtime/repo
-npm install
-bower install
-
-gulp --gulpfile gulpfile_publish.coffee
