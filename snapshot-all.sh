@@ -1,7 +1,7 @@
 #!/bin/sh
 echo 'Snapshotting Home...'
-./make-snapshot.sh 'http://www.blogzinga.it/#!/home' home
+./make-snapshot.sh 'http://localhost:8080/#!/home' home
 echo 'Snapshotting Contribute...'
-./make-snapshot.sh 'http://www.blogzinga.it/#!/contribute' contribute
+./make-snapshot.sh 'http://localhost:8080/#!/contribute' contribute
 echo 'Snapshotting About...'
-./make-snapshot.sh 'http://www.blogzinga.it/#!/about' about
+./make-snapshot.sh 'http://localhost:8080/#!/about' about
