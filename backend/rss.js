@@ -10,9 +10,9 @@ module.exports = {
                 var feed = new RSS({
                     title: 'BlogZinga!',
                     description: 'La lista dei blog di programmatori italiani. By CoseNonJaviste',
-                    feed_url: 'http://blogzinga.it/feed/rss',
-                    site_url: 'http://blogzinga.it',
-                    image_url: 'http://www.cosenonjaviste.it/wp-content/uploads/2015/05/bz.png',
+                    feed_url: 'http://www.blogzinga.it/feed/rss',
+                    site_url: 'http://wwww.blogzinga.it',
+                    image_url: 'http://www.codingjam.it/wp-content/uploads/2015/05/bz.png',
                     managingEditor: 'CNJ Community',
                     language: 'it',
                     categories: ['Developer', 'Blog'],
