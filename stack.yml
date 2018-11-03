@@ -1,0 +1,14 @@
+version: '3.6'
+
+services:
+  blogzinga:
+    image: blogzinga
+    build: .
+    container_name: blogzinga
+    ports:
+      - "8080:8080"
+    logging:
+      driver: json-file
+      options:
+        max-size: '10m'
+    restart: always
