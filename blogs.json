@@ -1350,5 +1350,33 @@
     "preview":"img/thumbs/superkotlin.png",
     "tags":["Kotlin"],
     "url":"https://superkotlin.com"
+  },
+  {
+    "title": "Marco Lenzo",
+    "topic": "Blog personale in lingua Inglese e Italiana che parla di sviluppo software in Java, Python e GoLang, e tecnologie cloud-native come Docker e Kubernetes.",
+    "authors" : [
+      "Marco Lenzo"
+    ],
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "preview":"img/thumbs/marcolenzo.png",
+    "tags":[
+      "Agile",
+      "Architecture",
+      "Cloud-Native",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "DevOps",
+      "Development",
+      "Docker",
+      "Linux",
+      "Java",
+      "Spring",
+      "Kubernetes",
+      "Python"
+    ],
+    "url": "https://marcolenzo.eu"
   }
 ]
