@@ -1,6 +1,32 @@
 [
   {
     "version":1,
+    "title":"Paolo Dell'Aguzzo",
+    "topic":"ReactJS, React Native, Java, codice pulito, Agile e Lean!",
+    "authors":[
+      "Paolo Dell'Aguzzo"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/paolodellaguzzo.png",
+    "tags":[
+	"reactjs",
+	"react",
+	"java",
+	"react native",
+	"agile",
+	"clean code",
+	"lean"
+    ],
+    "linkedin":"https://www.linkedin.com/in/paolodellaguzzo/",
+    "facebook":"https://www.facebook.com/paolodellaguzzocom/",
+    "github":"https://github.com/Draccan",
+    "twitter":"https://twitter.com/PaoloDellaguzzo",
+    "url":"https://www.paolodellaguzzo.com/blog"
+  },
+  {
+    "version":1,
     "title":"famousco.de | unofficial famous javascript lib",
     "topic":"Esempi, link e snippets riguardanti famous: High-performance javascript library for animations & interfaces",
     "authors":[
