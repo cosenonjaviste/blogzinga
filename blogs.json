@@ -2,21 +2,22 @@
   {
     "version":1,
     "title":"Paolo Dell'Aguzzo",
-    "topic":"ReactJS, Angular, Java, Smartphone, codice pulito e sviluppo Agile!",
+    "topic":"ReactJS, React Native, Java, codice pulito, Agile e Lean!",
     "authors":[
       "Paolo Dell'Aguzzo"
     ],
     "languages":[
       "ita"
     ],
-    "preview":"",
+    "preview":"img/thumbs/paolodellaguzzo.png",
     "tags":[
 	"reactjs",
-	"angular",
+	"react",
 	"java",
 	"react native",
 	"agile",
-	"clean code"
+	"clean code",
+	"lean"
     ],
     "linkedin":"https://www.linkedin.com/in/paolodellaguzzo/",
     "facebook":"https://www.facebook.com/paolodellaguzzocom/",
