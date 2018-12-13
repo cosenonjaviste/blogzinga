@@ -1404,5 +1404,31 @@
       "Python"
     ],
     "url": "https://marcolenzo.eu"
+  },
+  {
+    "title":"EmmeCiLab",
+    "topic":"La vera saggezza sta in colui che sa di non sapere!",
+    "authors":[
+      "Mauro Cicolella"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/emmecilab.png",
+    "tags":[
+      "Arduino",
+      "Domotica",
+      "Internet of Things",
+      "IoT",
+      "Java",
+      "Javascript",
+      "Linux",
+      "Machine learning",
+      "Open source"
+    ],
+    "linkedin":"https://www.linkedin.com/in/mauro-cicolella-0b107076/",
+    "github":"https://github.com/mcicolella",
+    "twitter":"https://twitter.com/emmecilab",
+    "url":"https://www.emmecilab.net"
   }
 ]
