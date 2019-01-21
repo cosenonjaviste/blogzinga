@@ -1430,5 +1430,27 @@
     "github":"https://github.com/mcicolella",
     "twitter":"https://twitter.com/emmecilab",
     "url":"https://www.emmecilab.net"
+  },
+{
+    "version":1,
+    "title":"Andrea Benzi - Web Developer",
+    "topic":"Programmatore Front-End. Sviluppo siti web con CMS WordPress.",
+    "authors":[
+      "Andrea Benzi"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"https://www.andreabenzi.it/img/share.png",
+    "tags":[
+      "Web Developer",
+      "WordPress",
+      "Front-End Developer",
+      "CSS",
+      "PHP"
+    ],
+    "github":"https://github.com/andreabenzi",
+    "twitter":"https://twitter.com/andreabenzi83",
+    "url":"https://www.andreabenzi.it/"
   }
 ]
