@@ -1434,20 +1434,18 @@
 {
     "version":1,
     "title":"Andrea Benzi - Web Developer",
-    "topic":"Programmatore Front-End. Sviluppo siti web con CMS WordPress.",
+    "topic":"Front-End & WordPress News",
     "authors":[
       "Andrea Benzi"
     ],
     "languages":[
       "ita"
     ],
-    "preview":"https://www.andreabenzi.it/img/share.png",
+    "preview":"img/thumbs/andreabenzi.jpg",
     "tags":[
-      "Web Developer",
       "WordPress",
-      "Front-End Developer",
-      "CSS",
-      "PHP"
+      "Front-End",
+      "CSS"
     ],
     "github":"https://github.com/andreabenzi",
     "twitter":"https://twitter.com/andreabenzi83",
