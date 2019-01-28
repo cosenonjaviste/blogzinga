@@ -1430,5 +1430,25 @@
     "github":"https://github.com/mcicolella",
     "twitter":"https://twitter.com/emmecilab",
     "url":"https://www.emmecilab.net"
+  },
+{
+    "version":1,
+    "title":"Andrea Benzi - Web Developer",
+    "topic":"Front-End & WordPress News",
+    "authors":[
+      "Andrea Benzi"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/andreabenzi.jpg",
+    "tags":[
+      "WordPress",
+      "Front-End",
+      "CSS"
+    ],
+    "github":"https://github.com/andreabenzi",
+    "twitter":"https://twitter.com/andreabenzi83",
+    "url":"https://www.andreabenzi.it/"
   }
 ]
