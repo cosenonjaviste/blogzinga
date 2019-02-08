@@ -1450,5 +1450,27 @@
     "github":"https://github.com/andreabenzi",
     "twitter":"https://twitter.com/andreabenzi83",
     "url":"https://www.andreabenzi.it/"
+  },
+  {
+    "version":1,
+    "title":"Big ball of mud",
+    "topic":"Software Engineering, Java, Scala, Functional Programming",
+    "authors":[
+      "Riccardo Cardin"
+    ],
+    "languages":[
+      "eng"
+    ],
+    "tags":[
+	"java",
+	"scala",
+	"clean code",
+	"software engineering",
+	"functional programming"
+    ],
+    "linkedin":"https://www.linkedin.com/in/riccardocardin/",
+    "github":"https://github.com/rcardin/",
+    "twitter":"https://twitter.com/riccardo_cardin",
+    "url":"https://rcardin.github.io/"
   }
 ]
