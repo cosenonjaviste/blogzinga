@@ -1,6 +1,32 @@
 [
   {
     "version":1,
+    "title":"Mattia Natali - Blog",
+    "topic":"Best Practices, Programmazione, DevOps, Hacking, Sicurezza, Mac, Linux e Open Source",
+    "authors":[
+      "Mattia Natali"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/mattianatali.jpg",
+    "tags":[
+      "programmazione",
+      "devops",
+      "hacking",
+      "best-practices",
+      "mac",
+      "linux",
+      "opensource"
+    ],
+    "github": "https://github.com/matitalatina/",
+    "twitter": "https://twitter.com/matitalatina",
+    "facebook": "https://www.facebook.com/mattia.natali",
+    "url": "https://www.mattianatali.it/",
+    "linkedin":"https://www.linkedin.com/in/mattian/"
+  },
+  {
+    "version":1,
     "title":"Paolo Dell'Aguzzo",
     "topic":"ReactJS, React Native, Java, codice pulito, Agile e Lean!",
     "authors":[
