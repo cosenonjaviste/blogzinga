@@ -1498,5 +1498,34 @@
     "github":"https://github.com/rcardin/",
     "twitter":"https://twitter.com/riccardo_cardin",
     "url":"https://rcardin.github.io/"
+  },
+  {
+    "version":1,
+    "title":"Software developer, analyst and project manager",
+    "topic":"Software Engineering, Programming, C#, .NET, C++, Lisp, Visual Basic, Windows, Linux, CAD, AutoCAD, progeCAD ",
+    "authors":[
+      "Roberto Rossi"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "tags":[
+	"software engineering",
+    "programming",
+    ".net",
+    "c++",
+    "lisp",
+    "Visual Basic",
+    "windows",
+    "linux",
+    "cad",
+    "autocad",
+    "progecad"
+    ],
+    "linkedin":"https://www.linkedin.com/in/robertorossi73",
+    "github":"https://github.com/robertorossi73",
+    "twitter":"https://twitter.com/robertorossi_73",
+    "facebook": "https://www.facebook.com/r1010010",
+    "url":"http://www.redchar.net/"
   }
 ]
