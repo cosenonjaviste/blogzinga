@@ -1518,5 +1518,29 @@
     "github":"https://github.com/dottorblaster",
     "twitter":"https://twitter.com/dottorblaster",
     "url":"https://dottorblaster.it"
+  },
+  {
+    "title":"Mad programmer @work!",
+    "topic":"FOSS, Internet, Linux, Java, programmazione, generatori di siti statici e database",
+    "authors":[
+      "Enrico Testori"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/hypertesto.png",
+    "tags":[
+      "FOSS",
+      "Internet",
+      "Linux",
+      "Java",
+      "Programmazione",
+      "SSG",
+      "Database"
+    ],
+    "linkedin":"https://linkedin.com/in/enricotestori",
+    "github":"https://github.com/hypertesto",
+    "twitter":"https://twitter.com/hypertesto",
+    "url":"https://www.hypertesto.me"
   }
 ]
