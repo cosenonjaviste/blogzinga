@@ -1498,5 +1498,25 @@
     "github":"https://github.com/rcardin/",
     "twitter":"https://twitter.com/riccardo_cardin",
     "url":"https://rcardin.github.io/"
+  },
+  {
+    "title":"Grab The Blaster",
+    "topic":"Elixir, Programmazione, notizie, appunti e viaggi",
+    "authors":[
+      "Alessio Biancalana"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "preview":"img/thumbs/dottorblaster.png",
+    "tags":[
+      "Elixir",
+      "Programmazione",
+      "Linux",
+      "Notizie"
+    ],
+    "github":"https://github.com/dottorblaster",
+    "twitter":"https://twitter.com/dottorblaster",
+    "url":"https://dottorblaster.it"
   }
 ]
