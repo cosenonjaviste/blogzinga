@@ -1498,5 +1498,26 @@
     "github":"https://github.com/rcardin/",
     "twitter":"https://twitter.com/riccardo_cardin",
     "url":"https://rcardin.github.io/"
+  },
+  {
+    "version":1,
+    "title":"The programmer",
+    "topic":"Tutorial sulla programmazione",
+    "authors":[
+      "Giovanni Giusto"
+    ],
+    "languages":[
+      "ita"
+    ],
+    "tags":[
+  "c#",
+  "xamarin",
+  "javascript",
+  "angular",
+	"ionic",
+  "cross-platform",
+  "php"
+    ],
+    "url":"https://www.theprogrammer.it/"
   }
 ]
