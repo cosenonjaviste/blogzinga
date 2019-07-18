@@ -10,7 +10,7 @@ RUN apt-get install libfontconfig1 libfreetype6 && \
     curl -o /tmp/phantomjs_2.1.1_armhf.deb -sSL https://github.com/fg2it/phantomjs-on-raspberry/releases/download/v2.1.1-wheezy-jessie/phantomjs_2.1.1_armhf.deb && \
     dpkg -i /tmp/phantomjs_2.1.1_armhf.deb
 
-RUN apt-get update -y && apt-get install jq
+RUN apt-get -y update && apt-get -y install jq
 
 WORKDIR blogzinga
 
