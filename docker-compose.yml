@@ -1,0 +1,25 @@
+version: "3.6"
+
+services:
+  blogzinga:
+    labels:
+     - "traefik.enable=true"
+     - "traefik.frontend.rule=Host:www.blogzinga.it"
+     - "traefik.port=8080"
+     - "traefik.docker.network=traefik_default"
+    image: blogzinga
+    environment:
+      - TZ=Europe/Rome
+    restart: always
+    networks:
+      - default
+      - traefik_default
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "5"
+        max-size: "10m"
+
+networks:
+  traefik_default:
+    external: true
